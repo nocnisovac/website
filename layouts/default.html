@@ -1,0 +1,39 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>HeapSpace | <%= @item[:title] %></title>
+		<%= render '_top' %>
+	</head>
+	<body>
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<%= render '_header' %>
+					</header>
+
+				<!-- Main -->
+					<article id="main">
+						<header>
+							<h2><%= @item[:title] %></h2>
+							<p><%= @item[:subtitle] %></p>
+						</header>
+						<section class="wrapper style5">
+							<div class="inner">
+
+								<%= yield %>
+
+							</div>
+						</section>
+					</article>
+
+				<%= render '_footer' %>
+
+			</div>
+
+		<%= render '_bottom' %>
+
+	</body>
+</html>
