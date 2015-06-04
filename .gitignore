@@ -1,0 +1,9 @@
+.sass-cache
+output
+tmp
+
+crash.log
+*.sublime-project
+*.sublime-workspace
+
+Gemfile.lock
