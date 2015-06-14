@@ -217,6 +217,14 @@
 		}
 	}
 
+	article#main .inner {
+		padding: 0 100px 0 100px;
+
+		@include breakpoint(medium) {
+			padding:0 0 0 0;
+		}
+	}
+
 	header {
 		p {
 			color: _palette(fg-light);
