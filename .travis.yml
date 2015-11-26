@@ -10,5 +10,6 @@ deploy:
   bucket: heapspace.rs
   local-dir: output
   acl: public_read
+  skip_cleanup: true
   on:
     repo: HeapSpace/website
