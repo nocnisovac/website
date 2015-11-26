@@ -4,4 +4,4 @@ rvm:
 install:
   - bundle install --path vendor/bundle
 script: bundle exec nanoc compile
-after_success: s3_website push
+after_success: bundle exec s3_website push
