@@ -1,9 +1,14 @@
 language: ruby
-rvm:
-- 2.2.2
-install:
-  - bundle install --path vendor/bundle
+rvm: 2.2.2
+install: bundle install --path vendor/bundle
 script: bundle exec nanoc compile
-after_success: bundle exec s3_website push
 deploy:
-	skip_cleanup: true
+  provider: s3
+  access_key_id: AKIAIXBHI3FLVEFIUXAQ
+  secret_access_key:
+    secure: 1PmiEvEzkwjQI+ROguq8zemKT6eNXtISTqh08mUb9KIwKT37iup/J4msGsAgZzSsn3OKQq00jmsvkYrUrSQX2NzHHttaBelHTbssjwCzah15lEsmZ81MAmCEnQBUFu58HPWTyAt2ST+wyylvpcTazyEIj9ADWco0/5WWzW12qeiHmxp92I0M/JjhCOG2q67eNa3TQaHU+HkTKzcqRE4/OH0QeNGoEv0QIeo5wWt+paebruGX93wQA2Kp7UZXnPFRrVN8ptJlG5Efndg0oAYs2EHg+KyvzVdoNT1MNUB1QB68qbvN5GoT9c7RJEWRZK5OWR3st461194Oo72r9CEQI9t97rwml6Wdlt3gHiImvqqmlFM8IZGFpVl6S0XM0WC6s3/l5Jmy2MzT3G/AOpFAy8KLjQ6z6g5Dsr5VcF1CVG5LTX4U7mY0mQHpOjwyCdMarKTVzS2w0EBBGT0qORFIghfcX0+DrI9X0Z1XlD8XFMwiSSsdyXhGfym14ceqZmHblweOTfsaBnXMKBMYQlbZMJXaOJzG490tREZ/KK7aktBrKHhfs4vsyjwL3PvlHIq37viAdqcyuzBlAWSBPsFgVjNhkSx29K/VHtwZTW96hol6er3hlwwTaLmRQdymHCIwlgOhZG356G1g+uTVTTque82KpHNEoyx1fBDZPzd29Jk=
+  bucket: heapspace.rs
+  local-dir: output
+  acl: public_read
+  on:
+    repo: HeapSpace/website
