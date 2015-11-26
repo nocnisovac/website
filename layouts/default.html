@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>HeapSpace | <%= @item[:title] %></title>
-		<%= render '_top' %>
+		<%= render '/_top.html' %>
 	</head>
 	<body>
 
@@ -11,7 +11,7 @@
 
 				<!-- Header -->
 					<header id="header">
-						<%= render '_header' %>
+						<%= render '/_header.html' %>
 					</header>
 
 				<!-- Main -->
@@ -29,11 +29,11 @@
 						</section>
 					</article>
 
-				<%= render '_footer' %>
+				<%= render '/_footer.html' %>
 
 			</div>
 
-		<%= render '_bottom' %>
+		<%= render '/_bottom.html' %>
 
 	</body>
 </html>

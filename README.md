@@ -1,6 +1,6 @@
 # HeapSpace WebSite
 
-This is [HeapSpace](http://heapspace.rs) web site built with [nanoc](http://nanoc.ws).
+This is [HeapSpace](http://heapspace.rs) web site built with [nanoc 4](http://nanoc.ws).
 
 All submissions are welcome. To submit a change, fork this repo,
 commit your changes, and send us a
@@ -8,7 +8,7 @@ commit your changes, and send us a
 
 ## Setup
 
-Ruby 1.9 is required to build the site.
+Ruby 2.2 is required to build the site.
 
 Get the `nanoc` gem, plus [kramdown](http://kramdown.gettalong.org/)
 for [Markdown](http://daringfireball.net/projects/markdown/) parsing:
@@ -49,10 +49,3 @@ separate terminal:
 ```sh
 $ bundle exec guard
 ```
-...or autocompile:
-
-```sh
-$ bundle exec nanoc autocompile
-```
-
-This starts a web server too, so there's no need to run `nanoc view`.

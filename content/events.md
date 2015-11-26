@@ -1,5 +1,5 @@
 ---
 title: Događaji
-subtitle: Organizovanje događaja je naš najvažniji oblik delovanja
+subtitle: Organizovanje događaja je važan oblik delovanja
 ---
 
