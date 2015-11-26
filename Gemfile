@@ -10,6 +10,8 @@ gem 'nokogiri',		'~> 1.6.5'
 gem 'coderay',		'~> 1.1.0'
 gem 'haml',			'~> 4.0.6'
 gem 'json'
+gem 's3_website'
+
 #gem 'typogruby',	'~> 1.0.18'
 
 group :development do
