@@ -1,6 +1,7 @@
 ---
 title: Open-Source
 subtitle: Otvorena zajednica za otvorene ljude.
+img: hsbck_opensource.jpg
 ---
 
 ## Zašto je Open-Source važan?
@@ -12,3 +13,36 @@ korišćenje na bilo koji način.
 
 HeapSpace duboko veruje u postulate otvorenog koda i podržava razvoj
 softvera objavljen pod zvaničnom OSS licencom.
+
+## OSS Projekti
+
+### Neumorph
+
++ Licenca: `Apache 2.0 License`
++ [neuroph.sourceforge.net](http://neuroph.sourceforge.net)
+
+Neuroph je vodeći svetski Java open-source frejmvork za neuronske mreže.
+Sastoji se iz biblioteke koja podržava najčešće korišćene vrste neuronskih
+mreža i integrisanog razvojnog okruženja za neuronske mreže zasnovanog na
+NetBeans Platform-i. Osnovne karakteristike su mu jednostavno korišćenje,
+jasan i proširiv dizajn i dobra dokumentacija. Razvija se u okviru
+Centra za razvoj softvera otvorenog koda na Fakultetu organizacionih nauka.
+
+Neuroph je nagrađen prestižnom nagradom u svetu Jave: Duke's Choice Award 2013.
+
+
+### Jodd
+
++ Licenca: `BSD License`
++ [jodd.org](http://jodd.org)
+
+Jodd is a generic purpose open-source Java library bundled with few lightweight
+frameworks and components: bean manipulation tool, JDateTime for elegant time
+handling, Db for easier database access, Madvoc for web works, Petite as a
+container, Proxetta for building proxies. Special attention is put into making
+code simple and fast as possible, and yet, feature rich, by following specific
+implementation principles. Jodd is free software; use it under the terms of the
+BSD license.
+
+
+
