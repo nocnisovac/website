@@ -81,6 +81,6 @@ checks:
 ################################################################################
 
 site:
-  name: Foo
-  base_url: http://foo.rs
-  keywords: 'keyword1, keyword2'
+  name: HeapSpace
+  base_url: http://heapspace.rs
+  keywords: 'heapspace,javasvet'
