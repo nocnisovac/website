@@ -16,6 +16,12 @@
 
 				<!-- Main -->
 					<article id="main">
+						<% if @item[:img] != nil %>
+						<style>
+							#main header {background-image: url(/images/<%= @item[:img] %>);}
+						</style>
+						<% end %>
+
 						<header>
 							<h2><%= @item[:title] %></h2>
 							<p><%= @item[:subtitle] %></p>
