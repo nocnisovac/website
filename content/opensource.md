@@ -1,12 +1,14 @@
 ---
-title: Open-Source
+title: "Open-Source"
 subtitle: Otvorena zajednica za otvorene ljude.
 img: hsbck_opensource.jpg
+published: true
 ---
+
 
 ## Zašto je Open-Source važan?
 
-Važnost Open-Source softvera je dostupnost izvornog koda i mogućnost
+Važnost _Open-Source_ softvera je dostupnost izvornog koda i mogućnost
 njegovog menjanja. Tako se program razvija na pravi način, direktno
 pod uticajem onih koji ga i koriste. Ovakvi programi su otvoreni za
 korišćenje na bilo koji način.
@@ -43,6 +45,3 @@ container, Proxetta for building proxies. Special attention is put into making
 code simple and fast as possible, and yet, feature rich, by following specific
 implementation principles. Jodd is free software; use it under the terms of the
 BSD license.
-
-
-
