@@ -1,12 +1,14 @@
 @import 'libs/mixins';
 
 .event-wrapper {
+	@include border-radius(10px);
 	a {
 		padding: 6px 0 10px 10px;
 		border-bottom:0;
 		&:hover {
 			background-color: _palette(bg)
 		}
+		@include border-radius(10px);
 	}
 
 	.date {
