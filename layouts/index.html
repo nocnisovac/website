@@ -36,7 +36,7 @@
 <ul class="events">
 <% $events.each{ |it| %>
 	<li>
-		<a href="#" title="Tech Doručak">
+		<a href="<%=relative_path_to(it)%>" title="<%=it[:title]%>">
 			<div class="date">
 				<div class="day"><%=it[:event_at].day%></div>
 				<div class="month"><%=rsmonth(it[:event_at].month)%></div>
