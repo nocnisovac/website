@@ -1712,12 +1712,14 @@
 			h2 {
 				font-size: 1.75em;
 				margin: 0 0 (_size(element-margin) * 0.25) 0;
+				text-shadow: 0px 0px 16px rgba(0,0,0,1);
 			}
 
 			p {
 				color: inherit;
 				letter-spacing: _size(letter-spacing-alt);
 				text-transform: uppercase;
+				text-shadow: 0px 0px 8px rgba(0,0,0,1);
 				top: 0;
 
 				a {
