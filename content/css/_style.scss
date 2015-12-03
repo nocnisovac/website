@@ -1,0 +1,54 @@
+@import 'libs/mixins';
+
+.event-wrapper {
+	a {
+		padding: 6px 0 10px 10px;
+		border-bottom:0;
+		&:hover {
+			background-color: _palette(bg)
+		}
+	}
+
+	.date {
+		font-family: 'Raleway', sans-serif;
+		float:left;
+		position: relative;
+		width: 114px;
+		height: 114px;
+		background: url('/images/date-bg.svg');
+		text-align: center;
+		color: _palette(bg);
+
+		.day, .month {
+			position: absolute;
+			right: 0;
+			left: 0;
+		}
+
+		.day {
+			top: 25px;
+			font-weight: bold;
+			font-size: 45px;
+			line-height: 1;
+		}
+
+		.month {
+			bottom: 25px;
+			font-size: 16px;
+			line-height: 1;
+		}
+	}
+	.when-where {
+		h4 {
+			padding:0;
+			margin-bottom: 8px;
+			font-family: 'Raleway', sans-serif;
+			border-bottom: 0;
+		}
+
+		float:left;
+		padding: 8px 30px 30px 30px;
+	}
+
+	@include clearfix();
+}

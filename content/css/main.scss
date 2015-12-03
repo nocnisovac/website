@@ -2,29 +2,25 @@
 @import 'libs/functions';
 @import 'libs/mixins';
 @import 'font-awesome.min.css';
+
 @import url('http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic');
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,800');
 
-/*
-	Spectral by HTML5 UP
-	html5up.net | @n33co
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+@import 'libs/skel';
 
-	@import 'libs/skel';
+@include skel-breakpoints((
+	xlarge:				'(max-width: 1680px)',
+	large:				'(max-width: 1280px)',
+	medium:				'(max-width: 980px)',
+	small:				'(max-width: 736px)',
+	xsmall:				'(max-width: 480px)'
+));
 
-	@include skel-breakpoints((
-		xlarge:				'(max-width: 1680px)',
-		large:				'(max-width: 1280px)',
-		medium:				'(max-width: 980px)',
-		small:				'(max-width: 736px)',
-		xsmall:				'(max-width: 480px)'
-	));
-
-	@include skel-layout((
-		reset: 'full',
-		boxModel: 'border',
-		grid: ( gutters: 1.5em )
-	));
+@include skel-layout((
+	reset: 'full',
+	boxModel: 'border',
+	grid: ( gutters: 1.5em )
+));
 
 /* Basic */
 
@@ -1862,3 +1858,6 @@
 			}
 		}
 	}
+
+
+@import 'style';
