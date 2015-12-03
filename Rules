@@ -3,6 +3,20 @@
 require 'compass'
 Compass.add_project_configuration 'config.rb'
 
+
+## preprocessing
+preprocess do
+
+  @items.each do |item|
+    hs_item_times(item)
+    hs_item_register(item)
+  end
+
+  hs_sort_alls
+
+end
+
+
 ## javascript
 
 compile '/js/**/*' do
