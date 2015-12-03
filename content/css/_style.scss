@@ -1,69 +1,82 @@
+@import 'libs/vars';
+@import 'libs/functions';
 @import 'libs/mixins';
+@import 'font-awesome.min.css';
+@import 'libs/skel';
+
 @import "compass/css3";
 
-.event-wrapper {
-	@include border-radius(10px);
-	a {
-		padding: 6px 0 10px 10px;
-		border-bottom:0;
-		&:hover {
-			background-color: _palette(bg)
-		}
-		@include border-radius(10px);
-	}
 
-	.date {
+ul.events {
+	@include vendor('display', 'flex');
+	@include vendor('flex-wrap', 'wrap');
+	@include vendor('justify-content', 'center');
+	list-style: none;
+	padding: 0;
+	width: 100%;
+
+	li {
 		font-family: 'Raleway', sans-serif;
-		float:left;
+		display: block;
 		position: relative;
-		width: 114px;
-		height: 114px;
-		background: url('/images/date-bg.svg');
-		text-align: center;
-		color: _palette(bg);
+		text-align: left;
+		width: 50%;
 
-		.day, .month {
-			position: absolute;
-			right: 0;
-			left: 0;
-		}
-
-		.day {
-			top: 25px;
-			font-weight: bold;
-			font-size: 45px;
-			line-height: 1;
-		}
-
-		.month {
-			bottom: 25px;
-			font-size: 16px;
-			line-height: 1;
-		}
-	}
-	.when-where {
-		h4 {
-			padding:0;
-			margin-bottom: 8px;
-			font-family: 'Raleway', sans-serif;
+		a {
+			@include border-radius(10px);
+			@include padding(1em, 1em, (0,0,0,2em));
 			border-bottom: 0;
+			display: block;
+			&:hover {
+				border-bottom: 0;
+				background-color: _palette(bg);
+			}
+
+			.date {
+				font-family: 'Raleway', sans-serif;
+				float:left;
+				position: relative;
+				width: 114px;
+				height: 114px;
+				background: url('/images/date-bg.svg');
+				text-align: center;
+				color: _palette(bg);
+
+				.day, .month {
+					position: absolute;
+					right: 0;
+					left: 0;
+				}
+
+				.day {
+					top: 25px;
+					font-weight: bold;
+					font-size: 45px;
+					line-height: 1;
+				}
+
+				.month {
+					bottom: 25px;
+					font-size: 16px;
+					line-height: 1;
+				}
+			}
+
+			.when-where {
+				text-align: center;
+				padding-bottom: 50px;
+			}
 		}
-
-		float:left;
-		padding: 8px 30px 30px 30px;
 	}
-
-	@include clearfix();
 }
 
-
-// spacer
+// ----------- spacer
 
 .or-spacer {
 	width: 50%;
 	margin: 0 auto;
 	position: relative;
-	margin-bottom: 30px;
+	margin-bottom: 50px;
 
   .mask {
     overflow:hidden; height:20px;
