@@ -70,7 +70,7 @@ ul.events {
 	}
 }
 
-// ----------- spacer
+// ------------------------------------------- spacer
 
 .or-spacer {
 	width: 50%;
@@ -111,4 +111,29 @@ ul.events {
     font-style:normal;
     color:#999;
   }
+}
+
+// -------------------------------------------
+
+@-webkit-keyframes rotateLogo {
+    0% {
+    	@include transform(rotate(0deg));
+    }
+    50% {
+    	@include transform(rotate(0deg));
+    }
+    60% {
+    	@include transform(rotate(360deg));
+    }
+    100% {
+    	@include transform(rotate(360deg));
+    }
+}
+
+#hslogo {
+    -webkit-animation-name:             rotateLogo;
+    -webkit-animation-duration:         6s;
+    -webkit-animation-iteration-count:  infinite;
+    -webkit-animation-timing-function:	ease-in-out;
+    -webkit-animation-delay: 3s;
 }
