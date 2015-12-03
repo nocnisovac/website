@@ -34,20 +34,22 @@
 						<div class="inner">
 
 <ul class="events">
+<% $events.each{ |it| %>
 	<li>
 		<a href="#" title="Tech Doručak">
 			<div class="date">
-				<div class="day">9</div>
-				<div class="month">Decembar</div>
+				<div class="day"><%=it[:event_at].day%></div>
+				<div class="month"><%=rsmonth(it[:event_at].month)%></div>
 			</div>
 			<div class="when-where">
-				<h4 class="title">Tech Doručak</h4>
+				<h4 class="title"><%=it[:title]%></h4>
 				<div class="time">9:00 am — 10:00 am</div>
 				<div>@ Parobrod</div>
 			</div>
 		</a>
 	</li>
 </ul>
+<%}%>
 						</div>
 					</section>
 

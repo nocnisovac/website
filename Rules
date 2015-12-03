@@ -10,9 +10,11 @@ preprocess do
   @items.each do |item|
     hs_item_times(item)
     hs_item_register(item)
+    hs_event_register(item)
   end
 
   hs_sort_alls
+  hs_sort_events
 
 end
 
