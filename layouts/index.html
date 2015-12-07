@@ -42,8 +42,8 @@
 				<div class="month"><%=rsmonth(it[:event_at].month)%></div>
 			</div>
 			<div class="when-where">
-				<h4 class="title"><%=h(it[:title])%></h4>
-				<div class="time">9:00 am — 10:00 am</div>
+				<h4 class="title"><%=kind_icon(it[:kind])%> <%=h(it[:title])%></h4>
+				<div class="time">9:00 — 10:00</div>
 				<div>@ Parobrod</div>
 			</div>
 		</a>
