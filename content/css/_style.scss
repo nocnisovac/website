@@ -157,3 +157,17 @@ ul.events {
 	color: _palette(fg) !important;
 	background-color: _palette(bg);
 }
+
+img.profile {
+	width: 150px;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    filter: gray;
+    filter: url("data:image/svg+xml;utf8,<svg version='1.1' xmlns='http://www.w3.org/2000/s….3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0' /></filter></svg>#greyscale");
+}
+
+img.right {
+	display: inline;
+	float: right;
+	margin-left: 20px;
+}
