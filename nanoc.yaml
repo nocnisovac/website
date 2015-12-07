@@ -80,7 +80,11 @@ checks:
 
 ################################################################################
 
+
+
+# base url
+base_url: http://heapspace.rs
+
 site:
   name: HeapSpace
-  base_url: http://heapspace.rs
   keywords: 'heapspace,javasvet'

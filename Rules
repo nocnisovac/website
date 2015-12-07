@@ -56,6 +56,16 @@ route '/htaccess.txt' do
 end
 
 
+## sitemap
+
+compile '/sitemap.haml' do
+  filter :haml
+end
+route '/sitemap.haml' do
+  item.identifier.without_ext + '.xml'
+end
+
+
 ## defaults
 
 compile '/**/*.md' do
