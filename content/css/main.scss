@@ -1564,33 +1564,19 @@
 			border: none;
 			bottom: 0;
 			color: inherit;
-			font-size: 0.8em;
-			height: 8.5em;
+			font-size: 1em;
+			height: 7.5em;
 			left: 50%;
 			letter-spacing: _size(letter-spacing-alt);
-			margin-left: -8.5em;
+			margin-left: -8em;
 			opacity: 1;
 			outline: 0;
-			padding-left: _size(letter-spacing-alt);
 			position: absolute;
 			text-align: center;
-			text-transform: uppercase;
 			width: 16em;
 			z-index: 1;
-
-			&:after {
-				background-image: url('/images/arrow.svg');
-				background-position: center;
-				background-repeat: no-repeat;
-				background-size: contain;
-				bottom: 4em;
-				content: '';
-				display: block;
-				height: 1.5em;
-				left: 50%;
-				margin: 0 0 0 -0.75em;
-				position: absolute;
-				width: 20px;
+			i {
+				font-size: 2em;
 			}
 		}
 
