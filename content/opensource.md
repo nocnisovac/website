@@ -1,10 +1,8 @@
 ---
-title: "Open-Source"
-subtitle: Otvorena zajednica za otvorene ljude.
+title: Open-Source
+subtitle: Otvorena zajednica za otvorene ljude
 img: hsbck_opensource.jpg
-published: true
 ---
-
 
 ## Zašto je Open-Source važan?
 
@@ -22,6 +20,7 @@ softvera objavljen pod zvaničnom OSS licencom.
 
 + Licenca: `Apache 2.0 License`
 + [neuroph.sourceforge.net](http://neuroph.sourceforge.net)
++ [SVN](http://sourceforge.net/p/neuroph/code/HEAD/tree/)
 
 Neuroph je vodeći svetski Java open-source frejmvork za neuronske mreže.
 Sastoji se iz biblioteke koja podržava najčešće korišćene vrste neuronskih
@@ -37,6 +36,7 @@ Neuroph je nagrađen prestižnom nagradom u svetu Jave: Duke's Choice Award 2013
 
 + Licenca: `BSD License`
 + [jodd.org](http://jodd.org)
++ [GIT](https://github.com/oblac/jodd/)
 
 Jodd is a generic purpose open-source Java library bundled with few lightweight
 frameworks and components: bean manipulation tool, JDateTime for elegant time
