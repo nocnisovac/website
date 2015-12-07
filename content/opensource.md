@@ -45,3 +45,17 @@ container, Proxetta for building proxies. Special attention is put into making
 code simple and fast as possible, and yet, feature rich, by following specific
 implementation principles. Jodd is free software; use it under the terms of the
 BSD license.
+
+### JustGage
+
++ Licenca: `MIT`
++ [justgage.com](http://justgage.com)
++ [GIT](https://github.com/toorshia/justgage)
+
+
+JustGage is a handy JavaScript plugin for generating and animating nice & clean gauges. It is based on Raphaël library for vector drawing, so it’s completely resolution independent and self-adjusting.
+
+Oh yes, since it’s pure SVG, it works in almost any browser -
+IE6+, Chrome, Firefox, Safari, Opera, Android, etc.
+
+
