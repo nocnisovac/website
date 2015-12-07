@@ -14,7 +14,10 @@ end
 # fix item metas
 def hs_item_metas(item)
   if !item.key?(:title)
-    item[:title] = 'xxx'
+    item[:title] = ''
+  end
+  if !item.key?(:subtitle)
+    item[:subtitle] = ''
   end
 end
 
