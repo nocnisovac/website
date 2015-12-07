@@ -34,15 +34,15 @@
 						<div class="inner">
 
 <ul class="events">
-<% $events.each{ |it| %>
+<% hs_new_events_of_kind().each{ |it| %>
 	<li>
-		<a href="<%=relative_path_to(it)%>" title="<%=it[:title]%>">
+		<a href="<%=relative_path_to(it)%>" title="<%=h(it[:title])%>">
 			<div class="date">
 				<div class="day"><%=it[:event_at].day%></div>
 				<div class="month"><%=rsmonth(it[:event_at].month)%></div>
 			</div>
 			<div class="when-where">
-				<h4 class="title"><%=it[:title]%></h4>
+				<h4 class="title"><%=h(it[:title])%></h4>
 				<div class="time">9:00 am — 10:00 am</div>
 				<div>@ Parobrod</div>
 			</div>
@@ -65,7 +65,7 @@
 							</header>
 
 							<ul class="features">
-								<li><a href="events.html">
+								<li><a href="/events/index.html">
 									<h3><i class="fa fa-star"></i>Događaji</h3>
 									<p>Organizujemo predavanja, panele, radionice, hackatone i konferencije. Delimo znanje mladima, početnicima i profesionalcima.</p>
 								</a></li>

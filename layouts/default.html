@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<title>HeapSpace | <%= @item[:title] %></title>
+		<title>HeapSpace | <%= h(@item[:title]) %></title>
 		<%= render '/_top.html' %>
 	</head>
 	<body>
@@ -23,8 +23,8 @@
 						<% end %>
 
 						<header>
-							<h2><%= @item[:title] %></h2>
-							<p><%= @item[:subtitle] %></p>
+							<h2><%= h(@item[:title]) %></h2>
+							<p><%= h(@item[:subtitle]) %></p>
 						</header>
 						<section class="wrapper style5">
 							<div class="inner">
