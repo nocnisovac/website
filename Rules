@@ -9,6 +9,7 @@ preprocess do
 
   @items.each do |item|
     hs_item_times(item)
+    hs_item_metas(item)
     hs_item_register(item)
     hs_event_register(item)
   end
@@ -75,7 +76,7 @@ compile '/**/*.md' do
   end
 
   filter :md_links
-  filter :relativize_paths, :type => :html
+  #filter :relativize_paths, :type => :html
   filter :htmlcompressor
 end
 
