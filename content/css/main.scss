@@ -1710,21 +1710,21 @@
 			text-align: center;
 
 			h2 {
-				font-size: 1.75em;
+				font-size: 2em;
 				margin: 0 0 (_size(element-margin) * 0.25) 0;
-				@include text-shadow(0 0 16px rgba(0,0,0,1));
+				//@include text-shadow(0 0 16px rgba(0,0,0,1));
+				background-color: rgba(0,0,0,0.7)
 			}
 
-			p {
+			h3 {
+				font-size: 1em;
 				color: inherit;
 				letter-spacing: _size(letter-spacing-alt);
 				text-transform: uppercase;
-				@include text-shadow(0 0 10px rgba(0,0,0,1));
+				//@include text-shadow(0 0 10px rgba(0,0,0,1));
 				top: 0;
-
-				a {
-					color: inherit;
-				}
+				background-color: rgba(0,0,0,0.7);
+				font-weight: normal;
 			}
 
 			@include breakpoint(xlarge) {
