@@ -17,6 +17,7 @@ softvera objavljen pod zvaničnom OSS licencom.
 ## OSS Projekti
 
 ### Neumorph
+{: .stuff}
 
 + Licenca: `Apache 2.0 License`
 + [neuroph.sourceforge.net](http://neuroph.sourceforge.net)
@@ -33,6 +34,7 @@ Neuroph je nagrađen prestižnom nagradom u svetu Jave: Duke's Choice Award 2013
 
 
 ### Jodd
+{: .stuff}
 
 + Licenca: `BSD License`
 + [jodd.org](http://jodd.org)

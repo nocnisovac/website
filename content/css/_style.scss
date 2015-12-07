@@ -113,7 +113,7 @@ ul.events {
   }
 }
 
-// -------------------------------------------
+// ------------------------------------------- rotoate logo
 
 @-webkit-keyframes rotateLogo {
     0% {
@@ -138,7 +138,22 @@ ul.events {
     -webkit-animation-delay: 3s;
 }
 
+// ------------------------------------------- misc
 
 .focus {
 	font-size: 1.3em;
+}
+
+.stuff {
+	&:before {
+		content: "\f138";
+		font-family: 'FontAwesome';
+		padding-right: 6px;
+		font-size: 36px;
+		position: relative;
+		top: 4px;
+		left: -10px;
+	}
+	color: _palette(fg) !important;
+	background-color: _palette(bg);
 }
