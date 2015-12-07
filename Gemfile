@@ -13,7 +13,7 @@ gem 'json'
 gem 'rainpress'
 gem 'jsmin'
 gem 'htmlcompressor'
-gem 'nanoc'				# Nanoc 4
+gem 'nanoc', '4.0.2'  # Nanoc 4
 gem 'nanoc-external',	# :external filter
     :git => 'git://github.com/nanoc/nanoc-external.git',
     :branch => 'nanoc4'
