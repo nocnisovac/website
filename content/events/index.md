@@ -7,7 +7,7 @@ subtitle: Organizovanje događaja je važan oblik delovanja
 
 <% hs_new_events_of_kind().each{ |it| %>
 
-<%=kind_icon(it[:kind])%> <%=link_to(it[:title], it)%>
+<%= render '/_event_small.html', :item => it %>
 
 <%}%>
 
@@ -17,6 +17,6 @@ subtitle: Organizovanje događaja je važan oblik delovanja
 
 <% hs_old_events_of_kind().each{ |it| %>
 
-<%=kind_icon(it[:kind])%> <%=link_to(it[:title], it)%>
+<%= render '/_event_small.html', :item => it %>
 
 <%}%>

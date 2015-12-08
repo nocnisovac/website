@@ -1,30 +1,34 @@
 
+def datum(date)
+  return date.day.to_s + '. ' + rsmonth(date.month) + ' ' + date.year.to_s + '.'
+end
+
 # converts month to serbian month name
 def rsmonth(month)
   case month
     when 1
-      return 'Januar'
+      return 'januar'
     when 2
-      return 'Februar'
+      return 'februar'
     when 3
-      return 'Mart'
+      return 'mart'
     when 4
-      return 'April'
+      return 'april'
     when 5
-      return 'Maj'
+      return 'maj'
     when 6
-      return 'Jun'
+      return 'jun'
     when 7
-      return 'Jul'
+      return 'jul'
     when 8
-      return 'Avgust'
+      return 'avgust'
     when 9
-      return 'Septembar'
+      return 'septembar'
     when 10
-      return 'Oktobar'
+      return 'oktobar'
     when 11
-      return 'Novembar'
+      return 'novembar'
     when 12
-      return 'Decembar'
+      return 'decembar'
   end
 end
