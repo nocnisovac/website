@@ -46,7 +46,8 @@
 			<div class="when-where">
 				<h4 class="title"><%=kind_icon(it[:kind])%> <%=h(it[:title])%></h4>
 				<div class="time"><%=it[:event_time]%></div>
-				<div>@ <%=it[:event_venue]%></div>
+				<div>@<%= venue_name(it) %></div>
+				<div><i class="fa fa-map-marker"></i> <%= venue_address(it) %></div>
 			</div>
 		</a>
 	</li>

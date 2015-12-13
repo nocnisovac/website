@@ -6,5 +6,5 @@ kind: tekfast
 created: 2015-12-01
 event: 2015-12-20
 event_time: 9:00 - 10:00
-event_venue: Parobrod
+event_venue: parobrod
 ---

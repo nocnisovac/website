@@ -3,6 +3,9 @@ title: Skala u praksi
 subtitle: Panel diskusija na temu Scala tehnologija
 kind: talk
 event: 2014-12-08
+event_time: '19:30'
+event_venue: cpn-old
+view_map: true
 ---
 
 Zajedničko istraživanje Scala tehnologija nastavljamo prvom i pravom panel
@@ -11,7 +14,7 @@ prednostima koje Scala donosi, koje su njene dobre strane i šta se sve
 nadovezuje na nju.
 {: .focus}
 
-<%=@item[:event_at]%> u 19:30 u Centru za Promociju Nauke. (panel je na srpskom jeziku)
+<%= render '/_gmap.html' %>
 
 Poslednje okupljanje koje je za temu imalo Scalu kao programski jezik je
 potuklo sve rekorde posećenosti okupljanja. Pošto tema privlači dosta pažnje,

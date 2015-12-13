@@ -1,6 +1,5 @@
 ### SOME HTML SNIPPETS
 
-
 # returns kind icons
 def kind_icon(kind)
   case kind
