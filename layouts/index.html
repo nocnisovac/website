@@ -34,6 +34,7 @@
 <div class="or-spacer"><div class="mask"></div><span><i class="fa fa-calendar"></i></span></div>
 						<div class="inner">
 
+
 <ul class="events">
 <% hs_new_events_of_kind().each{ |it| %>
 	<li>
@@ -44,13 +45,14 @@
 			</div>
 			<div class="when-where">
 				<h4 class="title"><%=kind_icon(it[:kind])%> <%=h(it[:title])%></h4>
-				<div class="time">9:00 — 10:00</div>
-				<div>@ Parobrod</div>
+				<div class="time"><%=it[:event_time]%></div>
+				<div>@ <%=it[:event_venue]%></div>
 			</div>
 		</a>
 	</li>
 </ul>
 <%}%>
+
 						</div>
 					</section>
 

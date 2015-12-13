@@ -4,5 +4,7 @@ subtitle: Praseće glave s nogicama i čalabrc
 img: hsbck_tekfast.jpg
 kind: tekfast
 created: 2015-12-01
-event: 2015-12-09
+event: 2015-12-20
+event_time: 9:00 - 10:00
+event_venue: Parobrod
 ---

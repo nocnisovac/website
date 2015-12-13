@@ -3,7 +3,7 @@
 @import 'libs/mixins';
 @import 'font-awesome.min.css';
 @import 'libs/skel';
-
+@import 'libs/skel_init';
 @import "compass/css3";
 
 
@@ -20,13 +20,13 @@ ul.events {
 		display: block;
 		position: relative;
 		text-align: left;
-		width: 50%;
 
 		a {
 			@include border-radius(10px);
-			@include padding(1em, 1em, (0,0,0,2em));
+			padding: 20px;
 			border-bottom: 0;
 			display: block;
+			overflow: hidden;
 			&:hover {
 				border-bottom: 0;
 				background-color: _palette(bg);
@@ -39,6 +39,7 @@ ul.events {
 				width: 114px;
 				height: 114px;
 				background: url('/images/date-bg.svg');
+				background-repeat: no-repeat;
 				text-align: center;
 				color: _palette(bg);
 
@@ -60,11 +61,29 @@ ul.events {
 					font-size: 16px;
 					line-height: 1;
 				}
+
+				@include breakpoint(medium) {
+					float: none;
+					width: 100%;
+					background-position: center center;
+				}
 			}
 
 			.when-where {
+				float:left;
+				margin-left: 10px;
 				text-align: center;
-				padding-bottom: 50px;
+
+				@include breakpoint(medium) {
+					float: none;
+					width: 100%;
+				}
+
+				.title {
+					margin-top: 6px;
+					font-size: 1.1em;
+					margin-bottom: 10px;
+				}
 			}
 		}
 	}
