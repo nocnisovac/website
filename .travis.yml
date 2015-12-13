@@ -1,5 +1,8 @@
 language: ruby
 rvm: 2.2.2
+before_install:
+  - gem update --system
+  - gem --version
 install: bundle install --path vendor/bundle
 script: bundle exec nanoc compile
 deploy:
