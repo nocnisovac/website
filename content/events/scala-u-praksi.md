@@ -1,11 +1,15 @@
 ---
 title: Skala u praksi
 subtitle: Panel diskusija na temu Scala tehnologija
+img: scala.png
 kind: talk
 event: 2014-12-08
 event_time: '19:30'
 event_venue: cpn-old
 view_map: true
+tags:
+  - scala
+  - panel
 ---
 
 Zajedničko istraživanje Scala tehnologija nastavljamo prvom i pravom panel
@@ -16,7 +20,7 @@ nadovezuje na nju.
 
 <%= render '/_gmap.html' %>
 
-Poslednje okupljanje koje je za temu imalo Scalu kao programski jezik je
+[Poslednje okupljanje](http://javasvet.rs/event/201411-cpn/) koje je za temu imalo Scalu kao programski jezik je
 potuklo sve rekorde posećenosti okupljanja. Pošto tema privlači dosta pažnje,
 odlučili smo da ponovo okupimo sve koji se bave Scalom na jednom mestu i
 napravimo panel na temu primene Scale u praksi i stvarnim projektima i
@@ -24,7 +28,7 @@ kako da ove dobre prakse prenesete u organizacije u kojima radite.
 
 Za sva vaša pitanja, nedoumice i znatiželje smo pripremili vrhunski tim panelista:
 
-### Tijana Dojčinović
+### [Tijana Dojčinović](http://rs.linkedin.com/pub/tijana-doj%C4%8Dinovi%C4%87/11/249/712)
 
 ![](tijana_dojcinovic.jpg){: .profile .right}
 Nikada nije sanjala na Javi, u Scala vode uskače iz PHP sveta i tako Scala
@@ -32,7 +36,7 @@ postaje omiljeni programski jezik koji svakodnevno koristi u GroundLinku
 rešavajući izazovne probleme visoke konkurentnosti. U njen Scala portfolio
 su uključeni Rest API-ji, Streaming servisi, web rešenja i push servisi.
 
-### Aleksandar Glavaš
+### [Aleksandar Glavaš](http://rs.linkedin.com/pub/aleksandar-glavas/11/75b/5b0)
 
 ![](aleksandar_glavas.jpg){: .profile .right}
 C++ pa Java, nekoliko godina izleta u Ruby/Rails vode i onda opet nazad u
@@ -42,7 +46,7 @@ uvek u njegovoj kutiji sa alatima, a pokazao je da Scala dobro radi i na
 Androidu.
 
 
-### Nebojša Ristin
+### [Nebojša Ristin](http://rs.linkedin.com/in/nebojsaristin)
 
 ![](nebojsa_ristin.jpg){: .profile .right}
 Od malena sanjao na Javi, a onda se pojavio Play framework lagano zaokupljujući

@@ -1,7 +1,7 @@
 ---
 title: HeapSpace mejling lista
 subtitle: Uključite se u zajednicu i dobijajte obaveštenja
-img: hsbck_mail.jpg
+img: /images/hsbck_mail.jpg
 ---
 
 ## Mejling lista
