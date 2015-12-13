@@ -1,6 +1,6 @@
 language: ruby
 rvm: 2.2.2
-before_install:
+before_script:
   - rm Gemfile.lock
 install: bundle install --path vendor/bundle
 script: bundle exec nanoc compile
