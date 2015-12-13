@@ -9,6 +9,7 @@ event_venue: cpn-old
 view_map: true
 tags:
   - scala
+  - functional
   - panel
 ---
 
@@ -18,7 +19,7 @@ prednostima koje Scala donosi, koje su njene dobre strane i šta se sve
 nadovezuje na nju.
 {: .focus}
 
-<%= render '/_gmap.html' %>
+<%= render '/_eventbox.html' %>
 
 [Poslednje okupljanje](http://javasvet.rs/event/201411-cpn/) koje je za temu imalo Scalu kao programski jezik je
 potuklo sve rekorde posećenosti okupljanja. Pošto tema privlači dosta pažnje,
