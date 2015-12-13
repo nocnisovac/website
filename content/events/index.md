@@ -12,10 +12,9 @@ subtitle: Organizovanje događaja je važan oblik delovanja
 <%}%>
 
 
-## Prethodni
+## Okupljanja
 
-
-<% hs_old_events_of_kind().each{ |it| %>
+<% hs_old_events_of_kind('talk').each{ |it| %>
 
 <%= render '/_event_small.html', :item => it %>
 
