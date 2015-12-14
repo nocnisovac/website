@@ -1,10 +1,10 @@
 <%	items = related_tag_items(@item)
 	if items.length > 0 %>
-		<ul>
+		<div class="related-side"><ul>
 <%		items.each { |it|%>
 
 			<li><%= it[:title] %></li>
 <%		}%>
-		</ul>
+		</ul></div>
 
 <%	end%>

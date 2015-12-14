@@ -220,3 +220,20 @@ img.right {
 		height:200px;
 	}
 }
+
+
+.related-side {
+	float: right;
+	font-size: 0.9em;
+	background: url(/images/arrow3.png) no-repeat 20px -20px;
+	width: 30%;
+	border-left: 1px dotted #666;
+	letter-spacing: 0;
+	padding-top: 100px;
+	z-index: 100;
+	ul {
+		li {
+			list-style: none;
+		}
+	}
+}
