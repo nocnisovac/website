@@ -1,6 +1,7 @@
 ---
 title: Događaji
 subtitle: Organizovanje događaja je važan oblik delovanja
+img: /images/hsbck_events.jpg
 ---
 
 ## Najave

@@ -1,10 +1,42 @@
 ---
 title: Tech Doručak
-subtitle: Praseće glave s nogicama i čalabrc
+subtitle: Čavrljanje o tehnologijama uz kafu i kroasane
 img: /images/hsbck_tekfast.jpg
 kind: tekfast
 created: 2015-12-01
-event: 2015-12-20
-event_time: 9:00 - 10:00
+event: 2015-12-18
+event_time: 8:00 - 9:30
 event_venue: parobrod
 ---
+
+Tehnološki doručak predstavlja mesečno okupljanje (svake prve srede u mesecu)
+sa ciljem razmene ideja i znanja među učesnicima.
+
+Ideja je da se u neformalnoj atmosferi predstave ideje i projekti sa ciljem
+prikupljanja komentara, nalaženja istomišljenjika, razmene znanja iz
+predstavljene oblasti a opciono i nalaženje partnera za dalju realizaciju.
+
+Događaj je otvoren za sve koji se bave tehnologijom, tako da bilo da ste
+preduzetnik, dizajner, programer ili se bavite tehnologijom kroz marketing ili
+slične delatnosti dobrodošli ste da predstavite svoje ideje. Okupljanje je
+potpuno besplatno i otvoreno za sve. (Zahvalite našim sponzorima ukoliko ih
+sretnete :)
+
+
+## Agenda
+
++ 8:00 - 8:15	Kafa + kroasan dobrodošlice, opušteni razgovor sa učesnicima
++ 8:15 - 8:20	Uvod, najave, zahvalnica sponzorima
++ 8:20 - 9:00	Predstavljanje ideja i projekata
++ 9:00 - 9:30	Slobodna diskusija uz kofeinsku dopunu ako zatreba ;)
+
+
+## Prijave
+
+Želite da predstavite svoju ideju ili projekat?
+Pišite nam na dorucak@heapspace.rs. U poruci uključite:
+
++ Ime i kratko o sebi
++ Ime prezentacije
++ Opis
+

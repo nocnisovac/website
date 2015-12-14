@@ -49,6 +49,7 @@ implementation principles. Jodd is free software; use it under the terms of the
 BSD license.
 
 ### JustGage
+{: .stuff}
 
 + Licenca: `MIT`
 + [justgage.com](http://justgage.com)

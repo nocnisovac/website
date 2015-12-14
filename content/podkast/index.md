@@ -4,7 +4,7 @@ subtitle: Ja pričam, ti pričaš, vi slušate
 img: /images/hsbck_podkast.jpg
 ---
 
-Spisak!
+Uskoro počinju podkasti.
 
 <%
 podkasts=hs_items_of_kind('podkast')
