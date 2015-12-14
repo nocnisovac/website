@@ -1,6 +1,8 @@
 language: ruby
 rvm: 2.2.2
 install: bundle install --path vendor/bundle
+before_script:
+  - export LANG=en_US.UTF-8
 script: bundle exec nanoc compile
 deploy:
   provider: s3
