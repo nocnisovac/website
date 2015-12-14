@@ -1,0 +1,10 @@
+<%	items = related_tag_items(@item)
+	if items.length > 0 %>
+		<ul>
+<%		items.each { |it|%>
+
+			<li><%= it[:title] %></li>
+<%		}%>
+		</ul>
+
+<%	end%>
