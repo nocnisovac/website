@@ -237,3 +237,24 @@ img.right {
 		}
 	}
 }
+
+.related-line {
+	font-size: 0.9em;
+	background: url(/images/arrow2.png) no-repeat 0 0;
+	letter-spacing: 0;
+	padding: 26px 0 40px 120px;
+	ul {
+		li {
+			float: left;
+			list-style: none;
+			border-right: 1px dotted #666;
+			padding-right: 10px;
+			font-style: italic;
+		}
+	}
+	overflow: hidden;
+}
+
+h3.sponsor {
+	margin-top: 20px;
+}

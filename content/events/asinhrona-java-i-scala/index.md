@@ -13,6 +13,7 @@ tags:
   - scala
   - java8
   - async
+sponsor: pamet
 ---
 
 Asinhrono programiranje je najbolji način za rad sa velikim saobraćajem.
@@ -35,13 +36,3 @@ Dakle, očekujte predavanje u više thread-ova :)
 Kroz programersku razmenu iskustava vodiće vas [Tijana Dojčinović](http://rs.linkedin.com/pub/tijana-doj%C4%8Dinovi%C4%87/11/249/712) i [Igor Spasić](https://github.com/igorspasic).
 Kao i na svakom našem predavanju koje za cilj ima razmenu znanja, imaćete
 mogućnost da učestvujete u diskusiji i proširite temu vašim iskustvima.
-
-### Sponzor događaja
-
-[Pamet](http://pamet.co.rs/why/jobs) je internacionalna softverska kompanija sa
-sedištem u Beogradu i San Francisco-u. Osnovne vrednosti naše kompanijske
-kulture su stalna usmerenost ka edukaciji i napredovanju kroz jasan i
-transparentan Career Path program. Ukoliko verujete u iste vrednosti i želite da
-radite zanimljiv, kreativan i dobro plaćen posao, javite se – Pamet se širi i
-zapošljava nove Java Web programere.
-

@@ -11,6 +11,7 @@ tags:
   - java
   - functional
   - java8
+sponsor: deploy
 ---
 
 Funkcionalna paradigma programiranja je postala sastavni deo gotovo svih
@@ -31,15 +32,3 @@ našem predavanju koje za cilj ima razmenu znanja, imaćete mogućnost da
 učestvujete u diskusiji i proširite temu vašim iskustvima. Predavanje će biti
 dovoljno opšte, tako da će moći da ga prati svako sa osnovnim znanjem rada u
 Javi, ali i u drugim sličnim OO jezicima.
-
-### Sponzor događaja
-
-[Deploy](http://deploy.rs) – kao kompanija globalno je prisutna na tržištu digitalnih tehnoloških
-usluga. Naš domen ekspertize su savremene tehnologije i iskustvo u svakodnevnom
-korišćenju digitalnih tehnoloških rešenja. Spisak naših klijenata uključuje
-preko 10 Startupa sa istočne i zapadne obale SAD, poznate digitalne agencije i
-kompanije sa liste Fortune 500. Osim rada sa klijentima, Deploy radi i na
-internom razvoju proizvoda i posebnoj vrsti inkubatora/akceleratora. Posvećeni
-smo pronalaženju vrednosti u svakoj fazi posla od ideje, preko razvoja i
-pustanja u produkciju. Verujemo u predanost tehnologiji i inovacijama, kao i u
-odgovornost i napredovanje na ličnom i poslovnom planu.

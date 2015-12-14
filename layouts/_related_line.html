@@ -1,0 +1,10 @@
+<%	items = related_tag_items(@item)
+	if items.length > 0 %>
+		<div class="related-line"><ul>
+<%		items.each { |it|%>
+
+			<li><%= link_to(it[:title], it) %></li>
+<%		}%>
+		</ul></div>
+
+<%	end%>
