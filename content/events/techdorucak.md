@@ -12,8 +12,7 @@ published: true
 ---
 
 
-Tehnološki doručak predstavlja mesečno okupljanje - svake prve srede u mesecu -
-sa ciljem razmene ideja i znanja među učesnicima.
+Tehnološki doručak predstavlja mesečno okupljanje sa ciljem razmene ideja i znanja među učesnicima. Nakon prvog okupljanja 24. decembra okupljanja nastavljamo svake prve srede u mesecu od februara 2016.
 {: .focus}
 
 <%= render '/_eventbox.html' %>
