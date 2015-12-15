@@ -3,12 +3,14 @@ title: Tech Doručak
 subtitle: Čavrljanje o tehnologijama uz kafu i kroasane
 img: /images/hsbck_tekfast.jpg
 kind: tekfast
-created: 2015-12-01
-event: 2015-12-24
-event_time: 8:00 - 9:30
+created: {}
+event: {}
+event_time: "8:00 - 9:30"
 event_venue: parobrod
 view_map: true
+published: true
 ---
+
 
 Tehnološki doručak predstavlja mesečno okupljanje - svake prve srede u mesecu -
 sa ciljem razmene ideja i znanja među učesnicima.
@@ -44,3 +46,6 @@ Pišite nam na dorucak@heapspace.rs. U poruci uključite:
 + Ime prezentacije
 + Opis
 
+## Sponzorstvo?
+
+Ukoliko želite da budete sponzor događaja javite nam se na dorucak@heapspace.rs. 
