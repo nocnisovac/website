@@ -2,8 +2,8 @@ language: ruby
 rvm: 2.2.3
 install:
   - gem uninstall bundler
-  - gem install bundler --version '1.10.0'
-  - bundle install --path vendor/bundle
+  - gem install -v 1.10.6 bundler --no-rdoc --no-ri
+  - bundle _1.10.6_ install --path vendor/bundle
 before_script:
   - export LANG=en_US.UTF-8
 script: bundle exec nanoc compile
