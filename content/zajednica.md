@@ -34,5 +34,11 @@ Naša misija je:
 
 > Osvestiti i podići tehnološku zajednicu Srbije kroz kontinualno unapređenje
 > znanja i deljenje iskustava.
+{: .focus}
 
 Dobrodošli!
+
+
+<ul class="actions vertical">
+	<li><a href="/prijava.html" class="button fit special">Prijavi se</a></li>
+</ul>

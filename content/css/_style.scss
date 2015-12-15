@@ -252,7 +252,7 @@ img.right {
 		li {
 			float: left;
 			list-style: none;
-			border-right: 1px dotted #666;
+			border-right: 1px solid #666;
 			padding-right: 10px;
 			font-style: italic;
 		}
@@ -262,4 +262,8 @@ img.right {
 
 h3.sponsor {
 	margin-top: 20px;
+}
+
+blockquote p:last-child {
+	margin-bottom: 0;
 }
