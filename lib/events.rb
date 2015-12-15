@@ -63,3 +63,8 @@ def hs_old_events_of_kind(kind = nil)
 
 	return events
 end
+
+
+def event_datum(item)
+	return datum(item[:event_at])
+end

@@ -7,10 +7,14 @@ created: 2015-12-01
 event: 2015-12-18
 event_time: 8:00 - 9:30
 event_venue: parobrod
+view_map: true
 ---
 
-Tehnološki doručak predstavlja mesečno okupljanje (svake prve srede u mesecu)
+Tehnološki doručak predstavlja mesečno okupljanje - svake prve srede u mesecu -
 sa ciljem razmene ideja i znanja među učesnicima.
+{: .focus}
+
+<%= render '/_eventbox.html' %>
 
 Ideja je da se u neformalnoj atmosferi predstave ideje i projekti sa ciljem
 prikupljanja komentara, nalaženja istomišljenjika, razmene znanja iz

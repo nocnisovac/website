@@ -48,7 +48,7 @@
 				<h4 class="title"><%=kind_icon(it[:kind])%> <%=h(it[:title])%></h4>
 				<div class="time"><%=it[:event_time]%></div>
 				<div>@<%= venue_name(it) %></div>
-				<div><i class="fa fa-map-marker"></i> <%= venue_address(it) %></div>
+				<address><i class="fa fa-map-marker"></i> <%= venue_address(it) %></address>
 			</div>
 		</a>
 	</li>

@@ -3,6 +3,6 @@
 	data-map-name="<%= venue_name(@item) %>"
 	<%= venue_map_position(@item) %> ></div>
 	<div class="venue">
-	<%=@item[:event]%> u <%= @item[:event_time] %> u <%= venue_name(@item) %>
+	<%=event_datum(@item)%> | <%= @item[:event_time] %> | <%= venue_name(@item) %> | <%= venue_address(@item) %>
 	</div>
 </div>
