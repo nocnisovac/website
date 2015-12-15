@@ -6,7 +6,7 @@ img: /images/hsbck_events.jpg
 
 ## Najave
 
-<% hs_new_events_of_kind().each{ |it| %>
+<% events_new_of_kind().each{ |it| %>
 
 <%= render '/_event_small.html', :item => it %>
 
@@ -15,7 +15,7 @@ img: /images/hsbck_events.jpg
 
 ## Okupljanja
 
-<% hs_old_events_of_kind('talk').each{ |it| %>
+<% events_old_of_kind('talk').each{ |it| %>
 
 <%= render '/_event_small.html', :item => it %>
 

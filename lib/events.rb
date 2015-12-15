@@ -7,7 +7,7 @@ $old_events = Array.new
 
 
 # register events and maintains the list of future events and past events
-def hs_event_register(item)
+def event_register(item)
   if !item.key?(:event)
     return
   end
@@ -24,14 +24,14 @@ def hs_event_register(item)
 end
 
 # sort all events
-def hs_sort_events()
+def events_sort()
   $new_events = $new_events.sort {|left, right| left[:event] <=> right[:event]}
   $old_events = $old_events.sort {|left, right| left[:event] <=> right[:event]}
   $old_events = $old_events.reverse
 end
 
 # returns only new events of a kind
-def hs_new_events_of_kind(kind = nil)
+def events_new_of_kind(kind = nil)
 	if (kind == nil)
 		return $new_events
 	end
@@ -48,7 +48,7 @@ def hs_new_events_of_kind(kind = nil)
 end
 
 # returns old events of a kind
-def hs_old_events_of_kind(kind = nil)
+def events_old_of_kind(kind = nil)
 	if (kind == nil)
 		return $old_events
 	end
@@ -65,6 +65,7 @@ def hs_old_events_of_kind(kind = nil)
 end
 
 
+# Renders human datum in RS format
 def event_datum(item)
 	return datum(item[:event_at])
 end
