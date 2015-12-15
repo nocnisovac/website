@@ -3,12 +3,11 @@ title: Tech Doručak
 subtitle: Čavrljanje o tehnologijama uz kafu i kroasane
 img: /images/hsbck_tekfast.jpg
 kind: tekfast
-created: {}
-event: {}
-event_time: "8:00 - 9:30"
+created: 2015-12-01
+event: 2015-12-24
+event_time: 8:00 - 9:30
 event_venue: parobrod
 view_map: true
-published: true
 ---
 
 
