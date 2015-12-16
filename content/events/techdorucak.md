@@ -11,21 +11,27 @@ view_map: true
 ---
 
 
-Tehnološki doručak predstavlja mesečno okupljanje sa ciljem razmene ideja i znanja među učesnicima. Nakon prvog okupljanja 24. decembra okupljanja nastavljamo svake prve srede u mesecu od februara 2016.
+Tehnološki doručak predstavlja mesečno okupljanje (svake prve srede u mesecu) sa
+ciljem razmene ideja i znanja među učesnicima, u prijatnoj atmosferi prve
+jutarnje kafe.
 {: .focus}
 
 <%= render '/_eventbox.html' %>
 
 Ideja je da se u neformalnoj atmosferi predstave ideje i projekti sa ciljem
 prikupljanja komentara, nalaženja istomišljenjika, razmene znanja iz
-predstavljene oblasti a opciono i nalaženje partnera za dalju realizaciju.
+predstavljene oblasti, a opciono i nalaženje partnera za dalju realizaciju. To
+znači da pozivamo ljude da pokažu ono na čemu rade, a zatim da zajedno
+prodiskutujemo o tome.
 
-Događaj je otvoren za sve koji se bave tehnologijom, tako da bilo da ste
-preduzetnik, dizajner, programer ili se bavite tehnologijom kroz marketing ili
-slične delatnosti dobrodošli ste da predstavite svoje ideje. Okupljanje je
-potpuno besplatno i otvoreno za sve. (Zahvalite našim sponzorima ukoliko ih
-sretnete :)
+Ukoliko želite da čujete nešto novo iz sveta biznisa, tehnologije,
+preduzetništva, digitalne umetnosti, I svega sličnog, pridružite nam se uz kafu
+I toplo pecivo. Ovo ne znači da su teme ograničene samo na tech, podržavamo I
+društveno korisne aktivnosti koje pokreću promene uz pomoć tehnologija.
 
+Događaj je otvoren za sve koji se bave ili interesuju za nove tehnologije,
+softver ili hardver. Bilo da ste preduzetnik, dizajner, programer ili slične
+delatnosti dobrodošli ste da predstavite svoje ideje.
 
 ## Agenda
 
@@ -38,7 +44,7 @@ sretnete :)
 ## Prijave
 
 Želite da predstavite svoju ideju ili projekat?
-Pišite nam na dorucak@heapspace.rs. U poruci uključite:
+Pišite nam na **dorucak@heapspace.rs**. U poruci uključite:
 
 + Ime i kratko o sebi
 + Ime prezentacije
@@ -46,4 +52,4 @@ Pišite nam na dorucak@heapspace.rs. U poruci uključite:
 
 ## Sponzorstvo?
 
-Ukoliko želite da budete sponzor događaja javite nam se na dorucak@heapspace.rs. 
+Ukoliko želite da budete sponzor događaja javite nam se na **dorucak@heapspace.rs**.
