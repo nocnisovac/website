@@ -11,7 +11,7 @@ view_map: true
 ---
 
 
-Tehnološki doručak predstavlja mesečno okupljanje (svake prve srede u mesecu) sa
+Tehnološki doručak predstavlja mesečno okupljanje (svake prve srede u mesecu - izuzetak je sledeće okupljanje u **četvrtak 24. decembra**) sa
 ciljem razmene ideja i znanja među učesnicima, u prijatnoj atmosferi prve
 jutarnje kafe.
 {: .focus}
@@ -45,7 +45,7 @@ Potvrdite dolazak: <a href="http://www.meetup.com/HeapSpace/events/227451686/" d
 ## Prijave
 
 Želite da predstavite svoju ideju ili projekat?
-Pišite nam na **dorucak@heapspace.rs**. U poruci uključite:
+Pišite nam na **<mailto:dorucak@heapspace.rs>**. U poruci uključite:
 
 + Ime i kratko o sebi
 + Ime prezentacije
@@ -53,6 +53,6 @@ Pišite nam na **dorucak@heapspace.rs**. U poruci uključite:
 
 ## Sponzorstvo?
 
-Ukoliko želite da budete sponzor događaja javite nam se na **dorucak@heapspace.rs**.
+Ukoliko želite da budete sponzor događaja javite nam se na **<mailto:dorucak@heapspace.rs>**.
 
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=srsqdfms8ht72gqi6a5olegolh";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
