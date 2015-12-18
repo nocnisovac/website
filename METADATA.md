@@ -25,6 +25,11 @@ Opis meta podataka koji se koriste na stranicama i člancima.
 	+ `cpn_old` - stari CPN
 	+ `icthub` - ICT Hub
 + `event_meetup` - opcioni _meetup.com_ id eventa.
++ `sponsor` - kodno ime sponsora
+
+## Tagovi
+
++ `tags` - niz tagova
 
 ## View
 
