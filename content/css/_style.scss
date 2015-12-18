@@ -214,11 +214,21 @@ img.right {
 	border: 1px solid _palette(accent7, border);
 	margin-bottom: 2em;
 
-	.venue {
-		font-size: 1em;
-		font-weight: bold;
+	.venue1 {
+		font-size: 0.9em;
 		text-align: center;
 		margin-top: 8px;
+		line-height: 1.1em;
+		font-weight: bold;
+		color: _palette(accent7, fg);
+	}
+	.venue2 {
+		font-size: 0.9em;
+		text-align: center;
+		font-weight: bold;
+		line-height: 1.1em;
+		margin-top: 4px;
+		color: _palette(accent7, fg);
 	}
 	.map {
 		width:100%;

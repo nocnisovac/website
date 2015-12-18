@@ -2,7 +2,10 @@
 <div id="map_canvas" class="map"
 	data-map-name="<%= venue_name(@item) %>"
 	<%= venue_map_position(@item) %> ></div>
-	<div class="venue">
-	<%=event_datum(@item)%> | <%= @item[:event_time] %> | <%= venue_name(@item) %> | <%= venue_address(@item) %>
+	<div class="venue1">
+	<%=event_datum(@item)%> | <%= @item[:event_time] %>
+	</div>
+	<div class="venue2">
+	<%= venue_name(@item) %> | <%= venue_address(@item) %>
 	</div>
 </div>
