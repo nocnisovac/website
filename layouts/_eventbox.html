@@ -8,4 +8,9 @@
 	<div class="venue2">
 	<%= venue_name(@item) %> | <%= venue_address(@item) %>
 	</div>
+	<% if (@item[:event_meetup] != nil) %>
+	<div class="venue3">
+		<a href="http://www.meetup.com/HeapSpace/events/<%= @item[:event_meetup] %>/" class="button fit special">meetup</a>
+	</div>
+	<% end %>
 </div>

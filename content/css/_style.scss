@@ -210,7 +210,7 @@ img.right {
 
 
 .event_box {
-	padding: 2em 2em 1em 2em;
+	padding: 2em 2em 0.1em 2em;
 	border: 1px solid _palette(accent7, border);
 	margin-bottom: 2em;
 
@@ -229,6 +229,10 @@ img.right {
 		line-height: 1.1em;
 		margin-top: 4px;
 		color: _palette(accent7, fg);
+		margin-bottom: 8px;
+	}
+	.venue3 {
+		padding: 0 20%;
 	}
 	.map {
 		width:100%;
