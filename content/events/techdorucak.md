@@ -35,10 +35,14 @@ delatnosti dobrodošli ste da predstavite svoje ideje.
 
 ## Agenda
 
-+ 8:00 - 8:15	Kafa + kroasan dobrodošlice, opušteni razgovor sa učesnicima
-+ 8:15 - 8:20	Uvod, najave, zahvalnica sponzorima
-+ 8:20 - 9:00	Predstavljanje ideja i projekata
-+ 9:00 - 9:30	Slobodna diskusija uz kofeinsku dopunu ako zatreba ;)
++ `8:00`	Kafa + kroasan dobrodošlice, opušteni razgovor sa učesnicima
++ `8:15`	Predstavljanja
+	+ [**JustGage**](http://justgage.com/) - [Bojan Đuričić](https://rs.linkedin.com/in/toorshia)
+	+ [**Aestetic Engine**](http://brutalism.rs/projects/aesthetic-engine-1/) - [Vladimir Mitrović](https://rs.linkedin.com/in/pttrn)
+	+ [**UsabilitySquare**](https://usabilitysquare.com/) - [Tamara Rendulić](https://rs.linkedin.com/in/tamara-rendulic-b8124629)
+	+ [**HS <i class="fa fa-heart"></i> Kids**](http://heapspace.rs/kids/index.html) - [Igor Spasić](https://github.com/igorspasic)
++ `9:15` Slobodna diskusija uz kofeinsku dopunu ako zatreba ;)
++ `9:30` Krećemo u nove radne pobede :)
 
 Potvrdite dolazak: <a href="http://www.meetup.com/HeapSpace/events/227451686/" data-event="227451686" class="mu-rsvp-btn">RSVP</a>
 
@@ -47,12 +51,12 @@ Potvrdite dolazak: <a href="http://www.meetup.com/HeapSpace/events/227451686/" d
 Želite da predstavite svoju ideju ili projekat?
 Pišite nam na **<mailto:dorucak@heapspace.rs>**. U poruci uključite:
 
-+ Ime i kratko o sebi
-+ Ime prezentacije
-+ Opis
++ Ime i ukratko o sebi
++ Naziv teme: projekta, ideje, dela, proizvoda, servisa, pitanja...
++ Opis teme koju bi podelili
 
 ## Sponzorstvo?
 
-Ukoliko želite da budete sponzor događaja javite nam se na **<mailto:dorucak@heapspace.rs>**.
+Ukoliko želite da budete sponzor doručka javite nam se na **<mailto:dorucak@heapspace.rs>**.
 
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=srsqdfms8ht72gqi6a5olegolh";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>
