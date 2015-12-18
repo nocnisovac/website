@@ -1561,6 +1561,7 @@
 			}
 		}
 
+		// strelica
 		.more {
 			@include vendor('transition', ('transform 0.75s ease', 'opacity 0.75s ease'));
 			@include vendor('transition-delay', '3.5s');
@@ -1569,7 +1570,8 @@
 			bottom: 0;
 			color: inherit;
 			font-size: 1em;
-			height: 7.5em;
+			// visina dokle ide strelica
+			height: 80px;
 			left: 50%;
 			letter-spacing: _size(letter-spacing-alt);
 			margin-left: -8em;
