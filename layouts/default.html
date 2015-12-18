@@ -23,9 +23,14 @@
 						<% end %>
 
 						<header>
-							<h2><%= h(@item[:title]) %></h2>
-							<h3><%= h(@item[:subtitle]) %></h3>
+							<% if (@item[:title_img] != nil) %>
+								<img src="<%= @item[:title_img] %>" title="<%= h(@item[:title]) %>" class="title">
+							<% else %>
+								<h2><%= h(@item[:title]) %></h2>
+								<h3><%= h(@item[:subtitle]) %></h3>
+							<% end %>
 						</header>
+
 
 						<section class="wrapper style5">
 							<div class="inner">

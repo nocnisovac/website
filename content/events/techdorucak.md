@@ -1,7 +1,8 @@
 ---
 title: Tech Doručak
 subtitle: Čavrljanje o tehnologijama uz kafu i kroasane
-img: /images/hsbck_tekfast.jpg
+title_img: title.png
+img: /images/plavo.jpg
 kind: tekfast
 created: 2015-12-01
 event: 2015-12-24
@@ -10,8 +11,7 @@ event_venue: parobrod
 view_map: true
 ---
 
-
-Tehnološki doručak predstavlja mesečno okupljanje (svake prve srede u mesecu - izuzetak je sledeće okupljanje u **četvrtak 24. decembra**) sa
+_Tehnološki doručak_ predstavlja mesečno okupljanje (svake prve srede u mesecu - izuzetak je sledeće okupljanje u **četvrtak 24. decembra**) sa
 ciljem razmene ideja i znanja među učesnicima, u prijatnoj atmosferi prve
 jutarnje kafe.
 {: .focus}
