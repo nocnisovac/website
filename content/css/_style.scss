@@ -6,8 +6,20 @@
 @import 'libs/skel_init';
 @import "compass/css3";
 
+// links in article
+article#main a {
+	padding-right: 4px;
+	padding-left: 4px;
+	@include border-radius(4px);
 
-ul.events {
+	&:hover {
+		border-bottom-color: transparent;
+		background-color: _palette(accent5, bg);
+		color: _palette(accent5, fg-bold);
+	}
+}
+
+ul.events, article#main ul.events {
 	@include vendor('display', 'flex');
 	@include vendor('flex-wrap', 'wrap');
 	@include vendor('justify-content', 'center');
@@ -194,6 +206,7 @@ ul.events_inverse {
 	}
 	color: _palette(fg) !important;
 	background-color: _palette(bg);
+	@include border-radius(10px);
 }
 
 img.profile {
@@ -336,18 +349,4 @@ img.left {
 }
 img.right {
 	margin-left: 10px;
-}
-
-.inner {
-	a {
-		padding-right: 4px;
-		padding-left: 4px;
-		@include border-radius(4px);
-
-		&:hover {
-			border-bottom-color: transparent;
-			background-color: _palette(accent5, bg);
-			color: _palette(accent5, fg-bold);
-		}
-	}
 }

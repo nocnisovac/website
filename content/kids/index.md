@@ -1,9 +1,8 @@
 ---
 title: HeapSpace deca
 subtitle: Najvažnije je kome ostavljamo znanje i svet
-img: /images/hsbck_kids.jpg
+img: /images/hsbck_kids1.jpg
 ---
-
 
 ## Naši Programi
 

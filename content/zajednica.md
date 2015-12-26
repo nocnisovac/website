@@ -1,7 +1,7 @@
 ---
 title: HeapSpace
 subtitle: sve što ste hteli da znate o zajednici
-img: /images/hsbck_zajednica.jpg
+img: /images/hsbck_zajednica1.jpg
 ---
 
 Nakon više od 10 godina postojanja [JavaSvet](http://javasvet.rs) zajednice, došlo je vreme za promene.
