@@ -1,7 +1,7 @@
 ---
-title: Tech Doručak
-subtitle: Čavrljanje o tehnologijama uz kafu i kroasane
-title_img: title.png
+title: Tech Doručak 1
+subtitle: JustGage | Aestetic Engine | UsabilitySquare | HS Kids
+title_img: ../title.png
 img: /images/plavo.jpg
 kind: tekfast
 event: 2015-12-24
