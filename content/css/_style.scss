@@ -94,6 +94,20 @@ ul.events {
 	}
 }
 
+ul.events_inverse {
+	li {
+		a {
+			background-color: _palette(accent1, bg);
+			color: _palette(fg);
+		}
+		.when-where {
+			.title {
+				color: _palette(fg);
+			}
+		}
+	}
+}
+
 // ------------------------------------------- spacer
 
 .or-spacer {

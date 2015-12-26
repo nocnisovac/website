@@ -4,13 +4,7 @@ subtitle: Organizovanje događaja je važan oblik delovanja
 img: /images/hsbck_events.jpg
 ---
 
-## Najave
-
-<% events_new_of_kind().each{ |it| %>
-
-<%= render '/_event_small.html', :item => it %>
-
-<%}%>
+<%= render '/_events.html', :evclass => 'events_inverse' %>
 
 <div class="row" markdown="1">
 

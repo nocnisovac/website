@@ -36,24 +36,7 @@
 						<div class="inner">
 
 
-<ul class="events">
-<% events_new_of_kind().each{ |it| %>
-	<li>
-		<a href="<%=relative_path_to(it)%>" title="<%=h(it[:title])%>">
-			<div class="date">
-				<div class="day"><%=it[:event_at].day%></div>
-				<div class="month"><%=rsmonth(it[:event_at].month)%></div>
-			</div>
-			<div class="when-where">
-				<h4 class="title"><%=kind_icon(it[:kind])%> <%=h(it[:title])%></h4>
-				<div class="time"><%=it[:event_time]%></div>
-				<div>@<%= venue_name(it) %></div>
-				<address><i class="fa fa-map-marker"></i> <%= venue_address(it) %></address>
-			</div>
-		</a>
-	</li>
-</ul>
-<%}%>
+<%= render '/_events.html' %>
 
 						</div>
 					</section>
