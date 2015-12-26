@@ -37,8 +37,10 @@
 								<%= yield %>
 								<%= render '/_related_line.html' %>
 								<% if @item[:sponsor] != nil %>
-								<%= render "/sponsor/#{@item[:sponsor]}.html" %>
-								<% end %>
+								<h2>Sponzori</h2>
+								<% @item[:sponsor].each { |s| %>
+								<%= render "/sponsor/#{s}.html" %>
+								<% } end %>
 							</div>
 						</section>
 					</article>

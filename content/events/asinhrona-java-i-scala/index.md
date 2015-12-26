@@ -13,7 +13,8 @@ tags:
   - scala
   - java8
   - async
-sponsor: pamet
+sponsor:
+  - pamet
 ---
 
 Asinhrono programiranje je najbolji način za rad sa velikim saobraćajem.

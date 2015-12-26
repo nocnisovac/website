@@ -11,7 +11,8 @@ tags:
   - java
   - functional
   - java8
-sponsor: deploy
+sponsor:
+  - deploy
 ---
 
 Funkcionalna paradigma programiranja je postala sastavni deo gotovo svih
