@@ -33,7 +33,7 @@ def venue_address(item)
 		when 'impacthub'
 			return 'Makedonska 21, Beograd'
 		when 'parobrod'
-			return 'Kapetan Mišina 4, Beograd'
+			return 'Kapetan Mišina 6a, Beograd'
 	end
 
 	return name
