@@ -40,3 +40,4 @@ jutarnje kafe.
 
 ## Konferencije
 
+<a href="https://voxxeddays.com/belgrade15">Voxxed Belgrade 2015</a>

@@ -1,6 +1,5 @@
 <div class="item">
 	<%=kind_icon(item[:kind])%>
-	<div><%=link_to(h(item[:title]), item)%></div>
-	<div><%=h(item[:subtitle])%></div>
+	<div><%=link_to(h(item[:title]), item)%> : <%=h(item[:subtitle])%></div>
 	<div class="date"><%=datum(item[:event])%></div>
 </div>
