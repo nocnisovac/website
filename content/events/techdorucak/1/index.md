@@ -4,15 +4,15 @@ subtitle: Čavrljanje o tehnologijama uz kafu i kroasane
 title_img: title.png
 img: /images/plavo.jpg
 kind: tekfast
-event: 2016-02-03
+event: 2015-12-24
 event_time: 8:00 - 9:30
 event_venue: parobrod
-event_meetup: 227567895
+event_meetup: 227451686
 view_map: true
 ---
 
-_Tehnološki doručak_ predstavlja mesečno okupljanje - svake prve srede u mesecu -
-sa ciljem brze razmene ideja i znanja među učesnicima, u prijatnoj atmosferi prve
+_Tehnološki doručak_ predstavlja mesečno okupljanje (svake prve srede u mesecu - izuzetak je sledeće okupljanje u **četvrtak 24. decembra**) sa
+ciljem razmene ideja i znanja među učesnicima, u prijatnoj atmosferi prve
 jutarnje kafe.
 {: .focus}
 
