@@ -37,12 +37,9 @@ delatnosti dobrodošli ste da predstavite svoje ideje.
 
 + `8:00`	Kafa + kroasan dobrodošlice, opušteni razgovor sa učesnicima
 + `8:15`	Predstavljanja
-	+ [**JustGage**](http://justgage.com/) - [Bojan Đuričić](https://rs.linkedin.com/in/toorshia)
-	+ [**Aestetic Engine**](http://brutalism.rs/projects/aesthetic-engine-1/) - [Vladimir Mitrović](https://rs.linkedin.com/in/pttrn)
-	+ [**UsabilitySquare**](https://usabilitysquare.com/) - [Tamara Rendulić](https://rs.linkedin.com/in/tamara-rendulic-b8124629)
-	+ [**HS <i class="fa fa-heart"></i> Kids**](http://heapspace.rs/kids/index.html) - [Igor Spasić](https://github.com/igorspasic)
+	+ TBA
 + `9:15` Slobodna diskusija uz kofeinsku dopunu ako zatreba ;)
-+ `9:30` Krećemo u nove radne pobede :)
++ `9:30` Krećemo u nove radne pobede!
 
 Potvrdite dolazak: <a href="http://www.meetup.com/HeapSpace/events/227451686/" data-event="227451686" class="mu-rsvp-btn">RSVP</a>
 
