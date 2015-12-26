@@ -18,6 +18,12 @@ article#main a {
 		color: _palette(accent5, fg-bold);
 	}
 }
+article#main a.invisible {
+	border-bottom: 0;
+	&:hover {
+		background-color: transparent;
+	}
+}
 
 ul.events, article#main ul.events {
 	@include vendor('display', 'flex');

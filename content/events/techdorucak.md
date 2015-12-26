@@ -41,7 +41,7 @@ delatnosti dobrodošli ste da predstavite svoje ideje.
 + `9:15` Slobodna diskusija uz kofeinsku dopunu ako zatreba ;)
 + `9:30` Krećemo u nove radne pobede!
 
-Potvrdite dolazak: <a href="http://www.meetup.com/HeapSpace/events/227451686/" data-event="227451686" class="mu-rsvp-btn">RSVP</a>
+Potvrdite dolazak: <a href="http://www.meetup.com/HeapSpace/events/<%=@item[:event_meetup]%>/" data-event="<%=@item[:event_meetup]%>" class="mu-rsvp-btn invisible">RSVP</a>
 
 ## Prijave
 

@@ -8,7 +8,8 @@ img: /images/hsbck_events.jpg
 
 <div class="row" markdown="1">
 
- ![](/images/arrow1.png){: .right}[![](/images/meetup_logo.png){: .left}](http://www.meetup.com/HeapSpace/) Sva naša okupljanja najavljujemo u okviru
+ ![](/images/arrow1.png){: .right}[![](/images/meetup_logo.png){: .left}](http://www.meetup.com/HeapSpace/){: .invisible}
+ Sva naša okupljanja najavljujemo u okviru
 [MeetUp HeapSpace](http://www.meetup.com/HeapSpace/) grupe. Prijave za
 okupljanja su **obavezna**. Najlakše je da se uključite u
 našu grupu!
