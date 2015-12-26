@@ -331,3 +331,23 @@ blockquote p:last-child {
 img.left {
 	margin-right: 10px;
 }
+.right {
+	float: right;
+}
+img.right {
+	margin-left: 10px;
+}
+
+.inner {
+	a {
+		padding-right: 4px;
+		padding-left: 4px;
+		@include border-radius(4px);
+
+		&:hover {
+			border-bottom-color: transparent;
+			background-color: _palette(accent5, bg);
+			color: _palette(accent5, fg-bold);
+		}
+	}
+}
