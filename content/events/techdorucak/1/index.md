@@ -25,3 +25,17 @@ sponsor:
 	+ [**HS <i class="fa fa-heart"></i> Kids**](http://heapspace.rs/kids/index.html) - [Igor Spasić](https://github.com/igorspasic)
 + `9:15` Slobodna diskusija uz kofeinsku dopunu ako zatreba ;)
 + `9:30` Krećemo u nove radne pobede :)
+
+## Fotke
+
+![](600_445365857.jpeg)
+![](600_445378916.jpeg)
+![](600_445365866.jpeg)
+![](600_445365869.jpeg)
+![](600_445378915.jpeg)
+![](600_445365862.jpeg)
+![](600_445378921.jpeg)
+![](600_445378917.jpeg)
+![](600_445365848.jpeg)
+![](600_445378920.jpeg)
+![](600_445378923.jpeg)

@@ -30,7 +30,7 @@ jutarnje kafe.
 <%}%>
 
 
-## Predavanja
+## Geek Nights
 
 <% events_old_of_kind('talk').each{ |it| %>
 
