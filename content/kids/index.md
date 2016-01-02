@@ -4,7 +4,7 @@ subtitle: Najvažnije je kome ostavljamo znanje i svet
 img: /images/hsbck_kids1.jpg
 ---
 
-Jako je važno da deca i mladi dobiju pravilno i potpunije znanje. Iako
+Važno je da deca i mladi dobiju pravilno i potpunije znanje. Iako
 je danas tehnologija skoro svuda, često se zanemaruje tamo
 gde bi trebalo da je uveliko prisutna: u školama. Cilj nam je
 mlade što pre uputimo u tehnologije, da bi naučili da se iskažu, i da
@@ -20,8 +20,9 @@ dalje usavršavamo i nadgrađujemo. Programi na kojima radimo su:
 
 + [Slepo kucanje](#slepo-kucanje)
 + [Internet opismenjavanje](#internet-opismenjavanje)
++ [Programersko razmišljanje](#programersko-razmisljanje)
 + [Sajt za škole](#sajt-za-kole)
-+ [Gapps za škole]()
++ [Google Apps za škole](#google-apps-za-kole)
 
 Uključi se! Ne smemo sedeti skrštenih ruku i dopustiti da naša deca i mladi
 ne steknu obrazovanje koje je danas praktično neophodno. Svaki od programa
@@ -43,6 +44,27 @@ pravilnom rasporedu prstiju (tkzv 'slepo kucanje').
 {: .stuff}
 
 + Uzrast: `IV-VIII razred osnovne škole`
++ Status: `U izradi` `Implementirano`
++ [Program](internet-opismenjavanje)
+
+Ovaj program predstavlja mešavinu korišćenja raznih programa i internet
+aplikacija. Fokus nije u razumevanju programa, već o shvatanju
+suštite šta se sve može uraditi u digitalnom svetu. Značajna pažnja
+je posvećena internetu.
+
+### Programersko razmišljanje
+{: .stuff}
+
++ Uzrast: `IV-VIII razred osnovne škole`
+
+### Java pitalice - mi vas & vi nas
+{: .stuff}
+
++ Uzrast: `Fakultet`
++ Status: `Kompletirano` `Implementirano`
+
+
+
 
 ### Sajt za škole
 {: .stuff}
@@ -55,12 +77,12 @@ nekvalitetnih, zatvorenih i skupih CMSova. Cilj ovog programa je da se napravi p
 kako škole mogu da naprave websajt na WordPress platformi i uspostave svoje
 prisustvo na internetu.
 
-### Programersko razmišljanje
+### Google Apps za škole
 {: .stuff}
++ Status: `Implementirano`, `Beta`
++ Potrebna pomoć
++ [Program](google-apps)
 
-+ Uzrast: `IV-VIII razred osnovne škole`
-
-### Java pitalice - mi vas & vi nas
-{: .stuff}
-
-+ Uzrast: `fakultet`
+Google Apps je zgodna platforma koju škola može da koristi za svoj rad,
+ali i rad sa decom. Uvođenjem ovakve platforme ne samo da se olakšava rad,
+već se deca kompjuterski opismenjavaju.
