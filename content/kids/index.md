@@ -20,7 +20,7 @@ dalje usavršavamo i nadgrađujemo. Programi na kojima radimo su:
 
 + [Slepo kucanje](#slepo-kucanje)
 + [Internet opismenjavanje](#internet-opismenjavanje)
-+ [Sajt za škole]()
++ [Sajt za škole](#sajt-za-kole)
 + [Gapps za škole]()
 
 Uključi se! Ne smemo sedeti skrštenih ruku i dopustiti da naša deca i mladi
@@ -44,6 +44,16 @@ pravilnom rasporedu prstiju (tkzv 'slepo kucanje').
 
 + Uzrast: `IV-VIII razred osnovne škole`
 
+### Sajt za škole
+{: .stuff}
++ Status: `U izradi`
++ Potrebna pomoć
++ [Program](sajt-za-skole)
+
+Nemali broj škola nema svoj web-site. Jedan deo škola je primoran na korišćenje
+nekvalitetnih, zatvorenih i skupih CMSova. Cilj ovog programa je da se napravi priručnik
+kako škole mogu da naprave websajt na WordPress platformi i uspostave svoje
+prisustvo na internetu.
 
 ### Programersko razmišljanje
 {: .stuff}
