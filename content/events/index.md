@@ -19,7 +19,7 @@ našu grupu!
 
 ## Tehnološki doručak
 
-[Tehnološki doručak](techdorucak) predstavlja mesečno okupljanje - svake prve srede u mesecu -
+[Tehnološki doručak](/techdorucak) predstavlja mesečno okupljanje - svake prve srede u mesecu -
 sa ciljem brze razmene ideja i znanja među učesnicima, u prijatnoj atmosferi prve
 jutarnje kafe.
 
