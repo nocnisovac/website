@@ -55,3 +55,11 @@ Pišite nam na **<mailto:dorucak@heapspace.rs>**. U poruci uključite:
 ## Sponzorstvo?
 
 Ukoliko želite da budete sponzor doručka javite nam se na **<mailto:dorucak@heapspace.rs>**.
+
+## Arhiva
+
+<% events_old_of_kind('tekfast').each{ |it| %>
+
+<%= render '/_event_small.html', :item => it %>
+
+<%}%>
