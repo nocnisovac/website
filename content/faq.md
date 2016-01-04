@@ -22,6 +22,15 @@ imenom. Sva dalja delovanja su nastavljena kroz HeapSpace, novu organizaciju,
 koja je dalekosežnija i ima šire vidike.
 
 
+## Da li imate da preporučite dobre programere?
+
+Ne. Iako dopiremo do puno programera, mi nismo servis za zapošljavanje.
+Međutim, smatramo da je najbolji način skrenuti pažnju na sebe upravo
+aktivno učestvovanje u programerskoj zajednici. Kroz vaše pojavljivanje
+možete ujedno pokazati kako radite, čime se bavite i sve ono što će
+privući potencijalne kandidate.
+
+
 ## Zainteresovan sam za učenje Java (ili nekog drugog) jezika
 
 Sjajno! Mi možemo da pomognemo u savetu kako da krenete, ali ne držimo obuku.
