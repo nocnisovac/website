@@ -93,11 +93,6 @@ end
 compile '/**/*' do
 end
 
-# special roots
-route '/techdorucak.md' do
-  item.identifier.without_ext + '/index.html'
-end
-
 # root content
 route '/*.{html,md}' do
   if item.identifier =~ '/index.*'
