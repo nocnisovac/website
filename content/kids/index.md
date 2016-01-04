@@ -47,10 +47,10 @@ pravilnom rasporedu prstiju (tkzv 'slepo kucanje').
 + Status: `U izradi` `Implementirano`
 + [Program](internet-opismenjavanje)
 
-Ovaj program predstavlja mešavinu korišćenja raznih programa i internet
-aplikacija. Fokus nije u razumevanju programa, već o shvatanju
-suštite šta se sve može uraditi u digitalnom svetu. Značajna pažnja
-je posvećena internetu.
+Ovaj program predstavlja mešavinu korišćenja više programa i internet
+aplikacija i servisa. Fokus nije u razumevanju svih opcija programa, već o
+shvatanju suštite šta se sve može uraditi u digitalnom svetu. Značajna pažnja
+je posvećena internetu: kako radi, deljenju sadržaja i sigurnosti.
 
 ### Programersko razmišljanje
 {: .stuff}

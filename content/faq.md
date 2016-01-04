@@ -22,7 +22,7 @@ imenom. Sva dalja delovanja su nastavljena kroz HeapSpace, novu organizaciju,
 koja je dalekosežnija i ima šire vidike.
 
 
-## Da li imate da preporučite dobre programere?
+## Da li možete da preporučite dobre programere?
 
 Ne. Iako dopiremo do puno programera, mi nismo servis za zapošljavanje.
 Međutim, smatramo da je najbolji način skrenuti pažnju na sebe upravo
