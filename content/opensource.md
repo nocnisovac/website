@@ -1,7 +1,7 @@
 ---
 title: Open-Source
 subtitle: Otvorena zajednica za otvorene ljude
-img: /images/hsbck_opensource.jpg
+img: /images/hsbck_opensource2.jpg
 ---
 
 ## Zašto je Open-Source važan?

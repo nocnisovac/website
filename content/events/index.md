@@ -1,15 +1,15 @@
 ---
 title: Događaji
 subtitle: Organizovanje događaja je važan oblik delovanja
-img: /images/hsbck_events.jpg
+img: events.jpg
 ---
 
 <%= render '/_events.html', :evclass => 'events_inverse' %>
 
 <div class="row" markdown="1">
 
- ![](/images/arrow1.png){: .right}[![](/images/meetup_logo.png){: .left}](http://www.meetup.com/HeapSpace/){: .invisible}
- Sva naša okupljanja najavljujemo u okviru
+![](/images/arrow1.png){: .right}[![](/images/meetup_logo.png){: .left}](http://www.meetup.com/HeapSpace/){: .invisible}
+Sva naša okupljanja najavljujemo u okviru
 [MeetUp HeapSpace](http://www.meetup.com/HeapSpace/) grupe. Prijave za
 okupljanja su **obavezna**. Najlakše je da se uključite u
 našu grupu!
@@ -19,7 +19,7 @@ našu grupu!
 
 ## Tehnološki doručak
 
-[Tehnološki doručak](/techdorucak) predstavlja mesečno okupljanje - svake prve srede u mesecu -
+[Tehnološki doručak](/techdorucak) predstavlja mesečno okupljanje - svake _prve srede_ u mesecu -
 sa ciljem brze razmene ideja i znanja među učesnicima, u prijatnoj atmosferi prve
 jutarnje kafe.
 
@@ -31,6 +31,11 @@ jutarnje kafe.
 
 
 ## Geek Nights
+
+[GeekNight](/geeknight) se održava svakog _poslednjeg četvrtka_ u mesecu i
+okuplja nas oko predstavljanja tehnološke priorode. Predavanja, paneli, radionice,
+ali i više kratkih prezentacija - sva imaju za cilj konkretniju razmenu znanja
+i iskustava.
 
 <% events_old_of_kind('talk').each{ |it| %>
 

@@ -25,7 +25,7 @@ znači da pozivamo ljude da pokažu ono na čemu rade, a zatim da zajedno
 prodiskutujemo o tome.
 
 Ukoliko želite da čujete nešto novo iz sveta biznisa, tehnologije,
-preduzetništva, digitalne umetnosti, I svega sličnog, pridružite nam se uz kafu
+preduzetništva, digitalne umetnosti, i svega sličnog, pridružite nam se uz kafu
 I toplo pecivo. Ovo ne znači da su teme ograničene samo na tech, podržavamo I
 društveno korisne aktivnosti koje pokreću promene uz pomoć tehnologija.
 
