@@ -56,14 +56,17 @@ je posvećena internetu: kako radi, deljenju sadržaja i sigurnosti.
 {: .stuff}
 
 + Uzrast: `IV-VIII razred osnovne škole`
++ Status: `U izradi`
++ Potrebna pomoć
+
+Prvi koraci u programiranju kroz '_Scratch_'.
+
 
 ### Java pitalice - mi vas & vi nas
 {: .stuff}
 
 + Uzrast: `Fakultet`
 + Status: `Kompletirano` `Implementirano`
-
-
 
 
 ### Sajt za škole

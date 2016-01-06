@@ -14,13 +14,13 @@ Program je realizovan 2012-14.
 
 ## Cilj
 
-+ Učenje slova ćirilice i latinice
-+ Upoznavanje sa rasporedom tastera
-+ Dostizanje upotrebljive brzine i tačnosti kucanja
++ Učenje slova ćirilice i latinice,
++ Upoznavanje sa rasporedom tastera,
++ Dostizanje upotrebljive brzine i tačnosti kucanja.
 
 Dodatno:
 
-+ Prvi kontakt sa računarskim sistemom
++ Prvi kontakt sa računarskim sistemom,
 + Korišćenje programa za crtanje _Paint_.
 
 
