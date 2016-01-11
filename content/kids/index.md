@@ -21,11 +21,13 @@ dalje usavršavamo i nadgrađujemo. Programi na kojima radimo su:
 + [Slepo kucanje](#slepo-kucanje)
 + [Internet opismenjavanje](#internet-opismenjavanje)
 + [Programersko razmišljanje](#programersko-razmisljanje)
++ [Java pitalice](#java-pitalice)
 + [Sajt za škole](#sajt-za-kole)
 + [Google Apps za škole](#google-apps-za-kole)
++ [Edukativne web aplikacije](#edukativne-web-aplikacije)
 
 Uključi se! Ne smemo sedeti skrštenih ruku i dopustiti da naša deca i mladi
-ne steknu obrazovanje koje je danas praktično neophodno. Svaki od programa
+ne steknu obrazovanje koje je danas neophodno. Svaki od programa
 navodi kako možete pomoći.
 
 
@@ -57,22 +59,29 @@ je posvećena internetu: kako radi, deljenju sadržaja i sigurnosti.
 
 + Uzrast: `IV-VIII razred osnovne škole`
 + Status: `U izradi`
-+ Potrebna pomoć
++ Uključi se!
++ [Program](skratch)
 
-Prvi koraci u programiranju kroz '_Scratch_'.
+Prvi koraci u programiranju u programskom jeziku i okruženju '_Scratch_'.
 
 
-### Java pitalice - mi vas & vi nas
+### Java pitalice
 {: .stuff}
 
 + Uzrast: `Fakultet`
 + Status: `Kompletirano` `Implementirano`
 
+Mladima koji završe fakultete je potrebno još usmeravanja u pogledu tehnologija
+i ciljeva. Java pitalice su svojevrsni performans koji se sastoji iz dva dela.
+Prvi deo čine zanimljiva trik-pitanja kojim ukazujemo na neke osobenosti
+programiranja. Drugi deo je otvorena diskusija, gde odgovaramo i diskutujemo
+na sva pitanja u vezi tehnologija.
+
 
 ### Sajt za škole
 {: .stuff}
 + Status: `U izradi`
-+ Potrebna pomoć
++ Uključi se!
 + [Program](sajt-za-skole)
 
 Nemali broj škola nema svoj web-site. Jedan deo škola je primoran na korišćenje
@@ -83,9 +92,17 @@ prisustvo na internetu.
 ### Google Apps za škole
 {: .stuff}
 + Status: `Implementirano`, `Beta`
-+ Potrebna pomoć
++ Uključi se!
 + [Program](google-apps)
 
 Google Apps je zgodna platforma koju škola može da koristi za svoj rad,
 ali i rad sa decom. Uvođenjem ovakve platforme ne samo da se olakšava rad,
 već se deca kompjuterski opismenjavaju.
+
+### Edukativne web aplikacije
+{: .stuff}
++ Status: `Planiranje`
++ Uključi se!
+
+Planiramo izradu nekoliko web aplikacija koje bi bile od pomoći najmlađima.
+Sve ideje su jednostavne, poučne. Svaka aplikacija je besplatna.
