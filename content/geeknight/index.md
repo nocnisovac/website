@@ -14,10 +14,22 @@ Događaj je otvoren za sve koji se bave ili interesuju za nove tehnologije,
 softver ili hardver. Bilo da ste preduzetnik, dizajner, programer ili slične
 delatnosti dobrodošli ste da učestvujete kao predavač ili slušalac.
 
-
 ## Agenda
 
 TBA
+
+## Prijave
+
+Želite da podelite iskustvo ili okupite panel u vezi aktuelne tehnologije?
+Pišite nam na **<mailto:geeknight@heapspace.rs>**. U poruci uključite:
+
++ Ime i ukratko o sebi
++ Naziv teme: projekta, ideje, dela, proizvoda, servisa, pitanja...
++ Opis teme koju bi podelili
+
+## Sponzorstvo?
+
+Ukoliko želite da budete sponzor javite nam se na **<mailto:geeknight@heapspace.rs>**.
 
 
 ## Arhiva
