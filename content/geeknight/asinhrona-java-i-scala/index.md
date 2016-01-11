@@ -1,7 +1,7 @@
 ---
 title: Asinhrona Java i Skala
 subtitle: Asinhrono programiranje je najbolji način za rad sa velikim saobraćajem
-img: async.jpg
+img: /images/hsbck_geeknight.jpg
 kind: talk
 event: 2015-03-17
 event_time: '19:00'

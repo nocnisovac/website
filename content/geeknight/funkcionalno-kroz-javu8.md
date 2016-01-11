@@ -1,7 +1,7 @@
 ---
 title: Funkcionalno kroz Javu 8
 subtitle: Organizovanje događaja je važan oblik delovanja
-img: functional-java8.jpg
+img: /images/hsbck_geeknight.jpg
 kind: talk
 event: 2015-02-17
 event_time: '19:00'
