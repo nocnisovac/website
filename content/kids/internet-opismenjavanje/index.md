@@ -10,7 +10,7 @@ Sprovođenje programa zavisi i od opremljenosti škole. Poželjno je da
 škola sprovede i program [Google Apps](../google-apps), pošto je za mnoge
 zadatke ključan.
 
-Sledi spisak celina koji su uključeni u ovaj program.
+Sledi spisak celina koje su uključene u ovaj program.
 
 ## Elektronska pošta
 
@@ -43,7 +43,7 @@ Krajnji cilj je da deca bez muke savladaju sledeće korake:
 + slanje poruke sa prikačenim fajlovima
 + odjava sa sistema i gašenje browsera
 
-## Elektrosna čestitka
+## Elektronska čestitka
 
 Razumevanje razlike programa na računaru i internet servisa.
 Startovanje programa za obradu teksta (najčeše je to _Word_). Savladati sledeće:
@@ -63,3 +63,43 @@ Evo primera nekih čestitki koje su deca IV razreda izradila za 15 minuta.
 ![](cestitka4.jpg)
 ![](cestitka2.jpg)
 ![](cestitka3.jpg)
+
+## Raspored časova i grafik
+
+Razumevanje _spreadsheet_ programa. Moguće je korišćenje on-line servisa
+ili programa (najčeše je to _Excell_). Savladati sledeće:
+
++ pravljenje jednostavne tablice
++ formatiranje pojedinih ćelija (zaglavlja)
++ postavljanje podataka za grafik
++ umetanje jednostavnog grafika
++ razumeti vezu podataka i grafika
+
+Najbolje je uzeti neki primer iz školskog života - recimo, raspodela ocena;
+ili visina dece; i sl.
+
+
+## Internet
+
+Razumevanje interneta. Pojam prisustva na internetu. Objašenjenje sigurnosti
+na internetu. Pregled popularnih servisa i pregled dobrih i loših strana istih
+(Facebook, Instagram... ). Poseban naglasak je na sigurnom pristupu: pristup
+u _inkognito_ modu, obraćanje pažnje o deljenju privatnih informacija.
+Podsticanje kreativnosti dece u smislu ličnog izražavanja, shvatanju da je to
+sredstvo.
+
+
+## Školske novine
+
+Zajednički rad dece na školskim novinama. Novine su podeljene na celine, teme.
+Grupa dece radi na istoj temi. Razumevanje kolaboracije. U praksi se pokazalo
+da je nezgodno pustiti decu da sva rade na istom dokumentu u isto vreme, stoga
+se savetuje da svaka grupa radi na svom dokumentu, koji se posle zajednički spaja.
+Izrada finalne verzije novina u elektrosnkom formatu i slanje iste na mejl.
+Dozvoljen je rad od kuće
+
++ rad sa programom za poštu
++ umetanje slika u dokument
++ razumevanje zajedničkog rada
++ rad u grupama
++ razumevanje _copy/paste_ koncepta
