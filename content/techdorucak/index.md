@@ -9,6 +9,9 @@ event_time: 8:00 - 9:30
 event_venue: parobrod
 event_meetup: 227567895
 view_map: true
+partner:
+  - kiflice
+  - nescafe
 ---
 
 _Tehnološki doručak_ predstavlja mesečno okupljanje - svake prve srede u mesecu -

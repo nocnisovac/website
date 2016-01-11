@@ -36,13 +36,31 @@
 							<div class="inner">
 								<%= yield %>
 								<%= render '/_related_line.html' %>
-								<% if @item[:sponsor] != nil %>
-								<h2>Sponzori</h2>
-								<% @item[:sponsor].each { |s| %>
-								<%= render "/sponsor/#{s}.html" %>
-								<% } end %>
 							</div>
 						</section>
+
+						<% if @item[:sponsor] != nil %>
+						<section class="wrapper style5" id="sponsors">
+<div class="or-spacer"><div class="mask"></div><span><i class="fa fa-trophy"></i></span></div>
+							<div class="inner">
+								<% @item[:sponsor].each { |s| %>
+								<%= render "/sponsor/#{s}.html" %>
+								<% } %>
+							</div>
+						</section>
+						<% end %>
+
+						<% if @item[:partner] != nil %>
+						<section class="wrapper style5" id="partners">
+<div class="or-spacer"><div class="mask"></div><span><i class="fa fa-diamond"></i></span></div>
+							<div class="inner">
+								<% @item[:partner].each { |s| %>
+								<%= render "/partner/#{s}.html" %>
+								<% } %>
+							</div>
+						</section>
+						<% end %>
+
 					</article>
 
 				<%= render '/_footer.html' %>

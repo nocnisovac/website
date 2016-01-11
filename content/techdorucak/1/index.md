@@ -9,8 +9,9 @@ event_time: 8:00 - 9:30
 event_venue: parobrod
 event_meetup: 227451686
 view_map: true
-sponsor:
+partner:
   - kiflice
+  - nescafe
 ---
 
 <%= render '/_eventbox.html' %>
