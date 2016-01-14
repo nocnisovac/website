@@ -2,6 +2,12 @@
 title: GeekNight
 subtitle: S tehnologijama kroz noć
 img: /images/hsbck_geeknight.jpg
+kind: talk
+event: 2016-01-28
+event_time: 19:30 - 21:30
+event_venue: skc
+event_meetup: 228084197
+view_map: true
 ---
 
 _GeekNight_ se održava svakog _poslednjeg četvrtka_ u mesecu i
@@ -9,6 +15,8 @@ okuplja nas oko predstavljanja tehnološke priorode. Predavanja, paneli, radioni
 ali i više kratkih prezentacija - sva imaju za cilj konkretniju razmenu znanja
 i iskustava.
 {: .focus}
+
+<%= render '/_eventbox.html' %>
 
 Događaj je otvoren za sve koji se bave ili interesuju za nove tehnologije,
 softver ili hardver. Bilo da ste preduzetnik, dizajner, programer ili slične
