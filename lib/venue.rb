@@ -15,6 +15,8 @@ def venue_name(item)
 			return 'Impact HUB'
 		when 'parobrod'
 			return 'Parobrod'
+		when 'skc'
+			return 'Studentski kulturni centar'
 	end
 
 	return name
@@ -34,6 +36,8 @@ def venue_address(item)
 			return 'Makedonska 21, Beograd'
 		when 'parobrod'
 			return 'Kapetan Mišina 6a, Beograd'
+		when 'skc'
+			return 'Kralja Milana 48, Beograd'
 	end
 
 	return name
@@ -59,6 +63,9 @@ def venue_map_position(item)
 		when 'parobrod'
 			lat = '44.82035'
 			lng = '20.4602128'
+		when 'skc'
+			lat = '44.806252'
+			lng = '20.464046'
 	end
 
 	return "data-map-lat=\"#{lat}\" data-map-lng=\"#{lng}\""
