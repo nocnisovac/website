@@ -1453,8 +1453,8 @@
 						color: _palette(fg-bold);
 						display: block;
 						font-size: 0.8em;
-						letter-spacing: _size(letter-spacing-alt);
-						padding: 0 1.5em;
+						letter-spacing: _size(letter-spacing);
+						padding: 0 1em;
 						text-transform: uppercase;
 
 						&.menuToggle {
