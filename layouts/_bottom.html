@@ -30,7 +30,7 @@ function initializeGoogleMap(mapCanvas, mapLat, mapLng, mapName) {
       title:mapName
 	});
 }
-$(function() {
+$(document).ready(function() {
 	$('.map').each(function(index) {
 		var lat = $(this).data("mapLat")
 		var lng = $(this).data("mapLng")
