@@ -1,5 +1,5 @@
 ---
-title: Tech Doručak
+title: Tehnološki Doručak
 subtitle: Čavrljanje o tehnologijama uz kafu i kroasane
 title_img: title.png
 img: /images/plavo.jpg

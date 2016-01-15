@@ -4,7 +4,7 @@ subtitle: S tehnologijama kroz noć
 img: /images/hsbck_geeknight.jpg
 kind: talk
 event: 2016-01-28
-event_time: 19:30 - 21:30
+event_time: 18:30 - 20:30
 event_venue: skc
 event_meetup: 228084197
 view_map: true
