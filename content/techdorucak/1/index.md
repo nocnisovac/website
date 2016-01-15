@@ -1,5 +1,5 @@
 ---
-title: Tech Doručak 1
+title: Tehnološki Doručak 1
 subtitle: JustGage | Aestetic Engine | UsabilitySquare | HS Kids
 title_img: ../title.png
 img: /images/plavo.jpg
@@ -13,6 +13,8 @@ partner:
   - kiflice
   - nescafe
 ---
+
+## Tehnološki doručak #1
 
 <%= render '/_eventbox.html' %>
 
