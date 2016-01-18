@@ -204,17 +204,18 @@ ul.events_inverse {
 
 .stuff {
 	&:before {
-		content: "\f138";
+//		content: "\f038";
+		content: "\f0da";
 		font-family: 'FontAwesome';
-		padding-right: 6px;
-		font-size: 36px;
+		padding-right: 10px;
+		padding-left: 8px;
+		font-size: 30px;
 		position: relative;
 		top: 4px;
-		left: -10px;
 	}
 	color: _palette(fg) !important;
-	background-color: _palette(bg);
-	@include border-radius(10px);
+	background-color: _palette(accent1, bg);
+	@include border-radius(4px);
 }
 
 img.profile {
