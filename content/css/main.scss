@@ -101,7 +101,7 @@
 	}
 
 	h2 {
-		font-size: 1.35em;
+		font-size: 1.4em;
 		line-height: 1.75em;
 
 		@include breakpoint(small) {
@@ -111,8 +111,9 @@
 	}
 
 	h3 {
-		font-size: 1.15em;
+		font-size: 1.1em;
 		line-height: 1.75em;
+		letter-spacing: 1px;
 
 		@include breakpoint(small) {
 			font-size: 1em;
@@ -123,16 +124,19 @@
 	h4 {
 		font-size: 1em;
 		line-height: 1.5em;
+		letter-spacing: 1px;
 	}
 
 	h5 {
 		font-size: 0.8em;
 		line-height: 1.5em;
+		letter-spacing: 1px;
 	}
 
 	h6 {
 		font-size: 0.7em;
 		line-height: 1.5em;
+		letter-spacing: 1px;
 	}
 
 	sub {

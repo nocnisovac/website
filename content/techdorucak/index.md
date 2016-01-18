@@ -16,20 +16,21 @@ partner:
 
 _Tehnološki doručak_ predstavlja mesečno okupljanje - svake prve srede u mesecu -
 sa ciljem brze razmene ideja i znanja među učesnicima, u prijatnoj atmosferi prve
-jutarnje kafe.
+jutarnje kafe. Tri predavanja od 5 minuta, 2 minuta za pitanja; i networking
+dopunjen kiflicama je sjajan način da se započne dan.
 {: .focus}
 
 <%= render '/_eventbox.html' %>
 
-Ideja je da se u neformalnoj atmosferi predstave ideje i projekti sa ciljem
+Ideja je da se u neformalnoj atmosferi na brz način predstave ideje i projekti sa ciljem
 prikupljanja komentara, nalaženja istomišljenjika, razmene znanja iz
 predstavljene oblasti, a opciono i nalaženje partnera za dalju realizaciju. To
 znači da pozivamo ljude da pokažu ono na čemu rade, a zatim da zajedno
-prodiskutujemo o tome.
+diskutujemo o tome.
 
 Ukoliko želite da čujete nešto novo iz sveta biznisa, tehnologije,
 preduzetništva, digitalne umetnosti, i svega sličnog, pridružite nam se uz kafu
-I toplo pecivo. Ovo ne znači da su teme ograničene samo na tech, podržavamo I
+i toplo pecivo. Ovo ne znači da su teme ograničene samo na tehnologije, podržavamo i
 društveno korisne aktivnosti koje pokreću promene uz pomoć tehnologija.
 
 Događaj je otvoren za sve koji se bave ili interesuju za nove tehnologije,
@@ -48,12 +49,15 @@ Potvrdite dolazak: <a href="http://www.meetup.com/HeapSpace/events/<%=@item[:eve
 
 ## Prijave
 
-Želite da predstavite svoju ideju ili projekat?
-Pišite nam na **<mailto:dorucak@heapspace.rs>**. U poruci uključite:
+Imate 5 minuta i želite da predstavite svoju ideju ili projekat?
+
+<iframe src="https://docs.google.com/forms/d/1tBDx02C1ej8mI6OcBJCK7_Q4rYMM4zFl8z02rqUODRg/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 + Ime i ukratko o sebi
 + Naziv teme: projekta, ideje, dela, proizvoda, servisa, pitanja...
 + Opis teme koju bi podelili
+
+Pišite nam na **<mailto:dorucak@heapspace.rs>**.
 
 ## Sponzorstvo?
 
