@@ -15,6 +15,14 @@ Da. Kao član HeapSpace organizacije, stičete pravo da aktivno usmeravate
 rad zajednice i odlučujete o programu i radu.
 
 
+## Da li mogu da nekako pomognem?
+
+Da (i hvala:)! Pomoći nikada dosta. Najbolje je da prođete sajt i nađete
+deo ili program u kome možete najviše doprineti. Onda nam se javite.
+Bez brige, nije neophodno da se bavite IT-jem! Potrebni su nam ljudi koji
+su vredni i odgovorni, i koji razumeju šta pokušavamo da uradimo ovde.
+
+
 ## Da li JavaSvet i dalje postoji?
 
 JavaSvet je prerastao u HeapSpace. Stoga, JavaSvet ne postoji više pod tim
