@@ -10,9 +10,9 @@ event_meetup: 228084197
 view_map: true
 ---
 
-_GeekNight_ se održava svakog _poslednjeg četvrtka_ u mesecu i
-okuplja nas oko predstavljanja tehnološke priorode. Predavanja, paneli, radionice,
-ali i više kratkih prezentacija - sva imaju za cilj konkretniju razmenu znanja
+_GeekNight_ se održava jednom mesečno - svakog _poslednjeg četvrtka_ u mesecu -
+i okuplja nas oko aktuelnih sadržaja. Predavanja, paneli, radionice,
+ali i više polusatnih prezentacija: sva imaju za cilj konkretniju razmenu znanja
 i iskustava.
 {: .focus}
 
@@ -28,12 +28,12 @@ TBA
 
 ## Prijave
 
-Želite da podelite iskustvo ili okupite panel u vezi aktuelne tehnologije?
-Pišite nam na **<mailto:geeknight@heapspace.rs>**. U poruci uključite:
+Želite da podelite iskustvo ili okupite panel u vezi aktuelne tehnologije,
+preduzetništva, biznisa ili digitalnog stvaralaštva?
 
-+ Ime i ukratko o sebi
-+ Naziv teme: projekta, ideje, dela, proizvoda, servisa, pitanja...
-+ Opis teme koju bi podelili
+<iframe src="https://docs.google.com/forms/d/1Kdhhii70Si8qrq8KkKFYjn3hjsrYySJoCVXlotddiL8/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+Pišite nam na **<mailto:geeknight@heapspace.rs>**.
 
 ## Sponzorstvo?
 
