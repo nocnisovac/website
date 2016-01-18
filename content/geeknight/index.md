@@ -26,7 +26,7 @@ delatnosti dobrodošli ste da učestvujete kao predavač ili slušalac.
 
 TBA
 
-## Prijave
+## Prijava
 
 Želite da podelite iskustvo ili okupite panel u vezi aktuelne tehnologije,
 preduzetništva, biznisa ili digitalnog stvaralaštva?

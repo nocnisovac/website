@@ -47,7 +47,7 @@ delatnosti dobrodošli ste da predstavite svoje ideje.
 
 Potvrdite dolazak: <a href="http://www.meetup.com/HeapSpace/events/<%=@item[:event_meetup]%>/" data-event="<%=@item[:event_meetup]%>" class="mu-rsvp-btn invisible">RSVP</a>
 
-## Prijave
+## Prijava
 
 Imate 5 minuta i želite da predstavite svoju ideju ili projekat?
 
