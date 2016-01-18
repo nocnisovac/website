@@ -30,6 +30,9 @@ Uključi se! Ne smemo sedeti skrštenih ruku i dopustiti da naša deca i mladi
 ne steknu obrazovanje koje je danas neophodno. Svaki od programa
 navodi kako možete pomoći.
 
+<div>
+<div class="button special"><a href="join">Uključi se</a></div>
+</div>
 
 ## Slepo Kucanje
 {: .stuff}
