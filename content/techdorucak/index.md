@@ -51,7 +51,7 @@ Potvrdite dolazak: <a href="http://www.meetup.com/HeapSpace/events/<%=@item[:eve
 
 Imate 5 minuta i želite da predstavite svoju ideju ili projekat?
 
-<iframe src="https://docs.google.com/forms/d/1tBDx02C1ej8mI6OcBJCK7_Q4rYMM4zFl8z02rqUODRg/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<%= render '/prijave/_prijava_tehdorucak.html' %>
 
 Pišite nam na **<mailto:dorucak@heapspace.rs>**.
 

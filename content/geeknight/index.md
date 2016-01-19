@@ -24,14 +24,22 @@ delatnosti dobrodošli ste da učestvujete kao predavač ili slušalac.
 
 ## Agenda
 
-TBA
++ `18:25`	Uvodna reč
++ `18:30`	Predstavljanja
+	+ **Rect.JS Internals** - [Jovan Erčić](https://www.linkedin.com/in/jokka) ([SpiceFactory](http://spicefactory.co/))
++ `20:30` Slobodna diskusija uz osvežavajući penušavi napitak ;)
+
+
 
 ## Prijava
 
 Želite da podelite iskustvo ili okupite panel u vezi aktuelne tehnologije,
 preduzetništva, biznisa ili digitalnog stvaralaštva?
 
-<iframe src="https://docs.google.com/forms/d/1Kdhhii70Si8qrq8KkKFYjn3hjsrYySJoCVXlotddiL8/viewform?embedded=true" width="100%" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+Predstavljanja su u formi 30 minuta za predstavljanje + 10 minuta za pitanja.
+
+<%= render '/prijave/_prijava_geeknight.html' %>
+
 
 Pišite nam na **<mailto:geeknight@heapspace.rs>**.
 
