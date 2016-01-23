@@ -25,9 +25,20 @@ delatnosti dobrodošli ste da učestvujete kao predavač ili slušalac.
 ## Agenda
 
 + `18:25`	Uvodna reč
-+ `18:30`	Predstavljanja
-	+ **Rect.JS Internals** - [Jovan Erčić](https://www.linkedin.com/in/jokka) ([SpiceFactory](http://spicefactory.co/))
-+ `20:30` Slobodna diskusija uz osvežavajući penušavi napitak ;)
++ `18:30` **Rect.JS Internals** - [Jovan Erčić](https://www.linkedin.com/in/jokka) ([SpiceFactory](http://spicefactory.co/))
+
+Ponekad je i iz ugla korisnika dobro poznavati 'kako' nešto radi, a ne samo
+'šta'. Proćićemo kroz osnovne koncepte koji su korišćeni u implementaciji
+React.js i šta to znači za korisnika.
+
++ `19:25` - `19:55` **Kubernetes** - [Vukašin Vukoje](https://twitter.com/wukoje)
+
+Živimo u svetu gde je sve češće sve manje stvari dovoljno. To nas dovodi u situaciju da razmišljamo o više, u ovom slučaju razmisljaćemo o više od jednog računara.
+Predavanje počinje sa kratkim uvodom u kontejnere i kako nam oni pomažu u rešavanju ovog problema nakon čega se nastavlja sa šta je Kubernetes-om i kako on rešava ovaj problem
+
++ `20:05` - `20:35` TBA
+
++ `20:45` - `21:10` Druženje ;)
 
 
 
