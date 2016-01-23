@@ -8,8 +8,6 @@
 
 // links in article
 article#main a {
-	padding-right: 4px;
-	padding-left: 4px;
 	@include border-radius(4px);
 
 	&:hover {

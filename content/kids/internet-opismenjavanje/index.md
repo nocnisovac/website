@@ -59,10 +59,10 @@ Startovanje programa za obradu teksta (najčeše je to _Word_). Savladati slede�
 
 Evo primera nekih čestitki koje su deca IV razreda izradila za 15 minuta.
 
-![](cestitka1.jpg)
-![](cestitka4.jpg)
-![](cestitka2.jpg)
-![](cestitka3.jpg)
+![](cestitka1.jpg){: .5u}
+![](cestitka4.jpg){: .5u}
+![](cestitka2.jpg){: .5u}
+![](cestitka3.jpg){: .5u}
 
 ## Raspored časova i grafik
 

@@ -96,10 +96,10 @@ Sadržaj je objavljen pod [Creative Commons 4 licenceom](http://creativecommons.
 
 (sve obljavljene fotografije dece imaju saglasnost roditelja)
 
-![](dscn4558.jpg)
-![](dscn4481.jpg)
-![](dscn4560.jpg)
-![](dscn4559.jpg)
-![](dscn4557.jpg)
-![](dscn4561.jpg)
-![](dscn4480.jpg)
+![](dscn4558.jpg){: .5u}
+![](dscn4481.jpg){: .5u}
+![](dscn4560.jpg){: .5u}
+![](dscn4559.jpg){: .5u}
+![](dscn4557.jpg){: .5u}
+![](dscn4561.jpg){: .5u}
+![](dscn4480.jpg){: .5u}
