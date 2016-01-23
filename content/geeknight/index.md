@@ -47,10 +47,7 @@ Predavanje počinje sa kratkim uvodom u kontejnere i kako nam oni pomažu u reš
 Želite da podelite iskustvo ili okupite panel u vezi aktuelne tehnologije,
 preduzetništva, biznisa ili digitalnog stvaralaštva?
 
-Predstavljanja su u formi 30 minuta za predstavljanje + 10 minuta za pitanja.
-
 <%= render '/prijave/_prijava_geeknight.html' %>
-
 
 Pišite nam na **<mailto:geeknight@heapspace.rs>**.
 
