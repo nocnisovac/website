@@ -1,7 +1,4 @@
 (function($) {
-
-	webshim.polyfill('es5 mediaelement forms');
-
 	skel
 		.breakpoints({
 			xlarge:	'(max-width: 1680px)',
@@ -92,35 +89,5 @@
 			}
 
 	});
-
-  $('[data-form="google"]').submit(function (event) {
-      event.preventDefault();
-
-      var form = $(this);
-      var parent = form.parent();
-
-      //form.find('data-name').value()
-      $.ajax({
-        url: form.attr('action'),
-        method: 'POST',
-        data: form.serialize()
-      }).done(function (msg) {
-        })
-        .fail(function(data) {
-          // ignore
-        })
-        .always(function () {
-					form.animate({'height':0, 'opacity':0}, 1000, function() {
-						parent.css('opacity', 0);
-						parent.html("<strong>Woohoo! Hvala na prijavi. Uskoro ćemo vam se javiti!</strong>");
-
-						parent.animate({'opacity':1}, 300, function() {
-							// nothing to see here :)
-						})
-
-					});
-        });
-    }
-  );
 
 })(jQuery);
