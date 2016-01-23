@@ -3,6 +3,8 @@ require 'date'
 
 $alls = Hash.new
 
+### --- preprocessing phase ---
+
 # collect item created times
 def hs_item_times(item)
   if item.key?(:created)
@@ -37,17 +39,20 @@ def hs_item_register(item)
   	$alls[kind] = docs
   end
 
-  docs.push(item)
+  docs.push(item.identifier)
 end
 
 
 # sorts all items by 'created' meta-data
 def hs_sort_alls()
 	$alls.each { |k, v|
-		result = v.sort {|left, right| left[:created] <=> right[:created]}
+		result = v.sort {|left, right| (@items[left])[:created] <=> (@items[right])[:created]}
 		v = result
 	}
 end
+
+
+### --- rendering phase ---
 
 # returns sorted array of items for given kind
 def hs_items_of_kind(kind)

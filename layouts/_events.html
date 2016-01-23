@@ -1,5 +1,5 @@
 <ul class="events <%= evclass if defined?(evclass) %>">
-<% events_new_of_kind().each{ |it| %>
+<% events_new_of_kind().each{ |itid| it = @items[itid] %>
 	<li>
 		<a href="<%=relative_path_to(it)%>" title="<%=h(it[:title])%>">
 			<div class="date">
