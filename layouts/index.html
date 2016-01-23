@@ -41,6 +41,26 @@
 						</div>
 					</section>
 
+<%
+oglasi = hs_items_of_kind('oglas')
+if (oglasi.length > 0) %>
+
+<section id="two" class="wrapper style2 special" style="padding-top:0">
+<div class="or-spacer"><div class="mask"></div><span><i class="fa fa-newspaper-o"></i></span></div>
+						<div class="inner">
+
+<h3>Oglasi</h3>
+<ul class="actions">
+<% oglasi.each{ |itid| it = @items[itid] %>
+<li><%= link_to(h(it[:title]), it, :class => 'button small') %></li>
+<% } %>
+</ul>
+
+						</div>
+					</section>
+
+<% end %>
+
 				<!-- Three -->
 					<section id="three" class="wrapper style3 special" style="padding-top:0">
 <div class="or-spacer"><div class="mask"></div><span><i class="fa fa-code"></i></span></div>
