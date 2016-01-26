@@ -16,7 +16,8 @@ partner:
 _GeekNight_ se održava jednom mesečno - svakog _poslednjeg četvrtka_ u mesecu -
 i okuplja nas oko aktuelnih sadržaja. Predavanja, paneli, radionice,
 ali i više polusatnih prezentacija: sva imaju za cilj konkretniju razmenu znanja
-i iskustava.
+i iskustava. U tome nam pomažu partneri: [Studentski kulturni centar SKC](http://www.skc.org.rs/)
+i [Zaječarsko pivo](http://zajecarskopivo.com/).
 {: .focus}
 
 <%= render '/_eventbox.html' %>
