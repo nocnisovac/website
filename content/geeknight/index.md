@@ -28,8 +28,8 @@ delatnosti dobrodošli ste da učestvujete kao predavač ili slušalac.
 
 ## Agenda
 
-+ `18:25`	Uvodna reč
-+ `18:30` **Rect.JS Internals** - [Jovan Erčić](https://www.linkedin.com/in/jokka) ([SpiceFactory](http://spicefactory.co/))
++ `18:30` - `18:45` Zdravica i pozdrav
++ `18:45` - `19:15` **Rect.JS Internals** - [Jovan Erčić](https://www.linkedin.com/in/jokka) ([SpiceFactory](http://spicefactory.co/))
 
 Ponekad je i iz ugla korisnika dobro poznavati 'kako' nešto radi, a ne samo
 'šta'. Proćićemo kroz osnovne koncepte koji su korišćeni u implementaciji
@@ -40,9 +40,7 @@ React.js i šta to znači za korisnika.
 Živimo u svetu gde je sve češće sve manje stvari dovoljno. To nas dovodi u situaciju da razmišljamo o više, u ovom slučaju razmisljaćemo o više od jednog računara.
 Predavanje počinje sa kratkim uvodom u kontejnere i kako nam oni pomažu u rešavanju ovog problema nakon čega se nastavlja sa šta je Kubernetes-om i kako on rešava ovaj problem
 
-+ `20:05` - `20:35` TBA
-
-+ `20:45` - `21:10` Druženje ;)
++ `20:00` - `21:00` Druženje ;)
 
 
 
