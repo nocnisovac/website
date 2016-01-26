@@ -8,6 +8,9 @@ event_time: 18:30 - 20:30
 event_venue: skc
 event_meetup: 228084197
 view_map: true
+partner:
+  - skc
+  - zajecarsko
 ---
 
 _GeekNight_ se održava jednom mesečno - svakog _poslednjeg četvrtka_ u mesecu -
