@@ -41,8 +41,10 @@ delatnosti dobrodošli ste da predstavite svoje ideje.
 
 + `8:00`	Kafa + kroasan dobrodošlice, opušteni razgovor sa učesnicima
 + `8:15`	Predstavljanja
-	+ TBA
-+ `9:15` Slobodna diskusija uz kofeinsku dopunu ako zatreba ;)
+	+ [**Strawbery energy**](http://senergy.rs/) - [Miloš Milisavljević](https://uk.linkedin.com/in/milisavljevic)
+	+ [**Solagro press system**](http://solagroteam.com/sr/%D1%80%D0%B5%D1%86%D0%B8%D0%BA%D0%BB%D0%B0%D0%B6%D0%B0/) - Nemanja Janić
+	+ [**Solaris Energy - Solarna Elektrana**](http://www.solarisenergy.co.rs/) - [Miloš Kostić](https://www.linkedin.com/in/milo%C5%A1-kosti%C4%87-b834944)
++ `9:00` Slobodna diskusija uz kofeinsku dopunu ako zatreba ;)
 + `9:30` Krećemo u nove radne pobede!
 
 Potvrdite dolazak: <a href="http://www.meetup.com/HeapSpace/events/<%=@item[:event_meetup]%>/" data-event="<%=@item[:event_meetup]%>" class="mu-rsvp-btn invisible">RSVP</a>
