@@ -359,7 +359,27 @@ img.right {
 }
 
 #sponsors, #partners {
+	.inner {
+		text-align: center;
+
+		a {
+			margin: auto 10px;
+		}
+
+		img {
+			vertical-align: middle;
+		}
+	}
+
 	font-size: 0.8em;
 	line-height: 1.3em;
 	letter-spacing: 0;
+}
+
+#partners img {
+	max-width: 100px;
+}
+
+#sponsors img {
+	max-width: 150px;
 }

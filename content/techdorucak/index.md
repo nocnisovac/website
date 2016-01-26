@@ -39,7 +39,7 @@ delatnosti dobrodošli ste da predstavite svoje ideje.
 
 ## Agenda
 
-+ `8:00`	Kafa + kroasan dobrodošlice, opušteni razgovor sa učesnicima
++ `8:00`	Kafa + kiflice dobrodošlice, opušteni razgovor sa učesnicima
 + `8:15`	Predstavljanja
 	+ [**Strawbery energy**](http://senergy.rs/) - [Miloš Milisavljević](https://uk.linkedin.com/in/milisavljevic)
 	+ [**Solagro press system**](http://solagroteam.com/sr/%D1%80%D0%B5%D1%86%D0%B8%D0%BA%D0%BB%D0%B0%D0%B6%D0%B0/) - Nemanja Janić

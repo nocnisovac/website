@@ -10,14 +10,13 @@ event_meetup: 228084197
 view_map: true
 partner:
   - skc
-  - zajecarsko
+  - zaječarsko
 ---
 
 _GeekNight_ se održava jednom mesečno - svakog _poslednjeg četvrtka_ u mesecu -
 i okuplja nas oko aktuelnih sadržaja. Predavanja, paneli, radionice,
 ali i više polusatnih prezentacija: sva imaju za cilj konkretniju razmenu znanja
-i iskustava. Ovaj događaj realizujemo u saradnji sa našim partnerima: [Studentski kulturni centar SKC](http://www.skc.org.rs/)
-i [Zaječarsko pivo](http://zajecarskopivo.com/).
+i iskustava.
 {: .focus}
 
 <%= render '/_eventbox.html' %>
@@ -28,19 +27,23 @@ delatnosti dobrodošli ste da učestvujete kao predavač ili slušalac.
 
 ## Agenda
 
-+ `18:30` - `18:45` Zdravica i pozdrav
-+ `18:45` - `19:15` **Rect.JS Internals** - [Jovan Erčić](https://www.linkedin.com/in/jokka) ([SpiceFactory](http://spicefactory.co/))
++ `18:30` - `18:35` Zdravica i pozdrav
++ `18:35` - `19:15` **Rect.JS Internals** - [Jovan Erčić](https://www.linkedin.com/in/jokka) ([SpiceFactory](http://spicefactory.co/))
 
 Ponekad je i iz ugla korisnika dobro poznavati 'kako' nešto radi, a ne samo
 'šta'. Proćićemo kroz osnovne koncepte koji su korišćeni u implementaciji
 React.js i šta to znači za korisnika.
 
-+ `19:25` - `19:55` **Kubernetes** - [Vukašin Vukoje](https://twitter.com/wukoje)
++ `19:15` - `19:55` **Kubernetes** - [Vukašin Vukoje](https://twitter.com/wukoje)
 
 Živimo u svetu gde je sve češće sve manje stvari dovoljno. To nas dovodi u situaciju da razmišljamo o više, u ovom slučaju razmisljaćemo o više od jednog računara.
 Predavanje počinje sa kratkim uvodom u kontejnere i kako nam oni pomažu u rešavanju ovog problema nakon čega se nastavlja sa šta je Kubernetes-om i kako on rešava ovaj problem
 
-+ `20:00` - `21:00` Druženje ;)
++ `19:55` - `20:35` **Rancher** - [Marko Uskoković](https://www.linkedin.com/in/uskokovicmarko)
+
+Nije farma nego ranč! Kako da pokrenete i upravljate svojim privatnim kotejner servisom. Docker za sve u okviru vaše organizacije.
+
++ `20:35` - `21:30` Druženje uz [Zaječarsko pivo](http://zajecarskopivo.com/) ;)
 
 
 
