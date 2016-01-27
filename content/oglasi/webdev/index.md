@@ -1,7 +1,6 @@
 ---
 title: web developer
 subtitle: HeapSpace traži web developera
-kind: oglas
 created: 2016-01-21
 ---
 
