@@ -26,6 +26,8 @@ Događaj je otvoren za sve koji se bave ili interesuju za nove tehnologije,
 softver ili hardver. Bilo da ste preduzetnik, dizajner, programer ili slične
 delatnosti dobrodošli ste da učestvujete kao predavač ili slušalac.
 
+<%= render '/_you_tube.html', ytid: 'aVJAVTSmfqU' %>
+
 ## Agenda
 
 + `18:30` - `18:35` Uvod i pozdrav
