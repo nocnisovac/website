@@ -28,6 +28,7 @@ delatnosti dobrodošli ste da učestvujete kao predavač ili slušalac.
 ## Agenda
 
 + `18:30` - `18:35` Uvod i pozdrav
+
 TBA
 
 + `20:35` - `21:30` Druženje uz [Zaječarsko pivo](http://zajecarskopivo.com/) ;)

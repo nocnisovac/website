@@ -26,7 +26,7 @@ partner:
 ## Agenda
 
 + `18:30` - `18:35` Uvod i pozdrav
-+ `18:35` - `19:15` **Rect.JS Internals** - [Jovan Erčić](https://www.linkedin.com/in/jokka) ([SpiceFactory](http://spicefactory.co/))
++ `18:35` - `19:15` **React.JS Internals** - [Jovan Erčić](https://www.linkedin.com/in/jokka) ([SpiceFactory](http://spicefactory.co/))
 
 Ponekad je i iz ugla korisnika dobro poznavati 'kako' nešto radi, a ne samo
 'šta'. Proćićemo kroz osnovne koncepte koji su korišćeni u implementaciji
