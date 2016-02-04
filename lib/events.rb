@@ -37,6 +37,7 @@ end
 ### --- rendering phase ---
 
 # returns only new events of a kind
+# never returns a nil
 def events_new_of_kind(kind = nil)
 	if (kind == nil)
 		return $new_events

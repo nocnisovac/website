@@ -55,6 +55,7 @@ end
 ### --- rendering phase ---
 
 # returns sorted array of items for given kind
+# may return nil if kind is not available
 def hs_items_of_kind(kind)
 	return $alls[kind]
 end
