@@ -18,6 +18,7 @@ našu grupu!
 </div>
 
 ## Tehnološki doručak
+{: .stuff}
 
 [Tehnološki doručak](/techdorucak) predstavlja mesečno okupljanje - svake _prve srede_ u mesecu -
 sa ciljem brze razmene ideja i znanja među učesnicima, u prijatnoj atmosferi prve
@@ -31,6 +32,7 @@ jutarnje kafe.
 
 
 ## Geek Nights
+{: .stuff}
 
 [GeekNight](/geeknight) se održava svakog _poslednjeg četvrtka_ u mesecu i
 okuplja nas oko predstavljanja tehnološke priorode. Predavanja, paneli, radionice,
@@ -45,5 +47,6 @@ i iskustava.
 
 
 ## Konferencije
+{: .stuff}
 
 <a href="https://voxxeddays.com/belgrade15">Voxxed Belgrade 2015</a>

@@ -4,10 +4,10 @@ subtitle: Čavrljanje o tehnologijama uz kafu i kroasane
 title_img: title.png
 img: /images/plavo.jpg
 kind: tekfast
-event: 2016-02-03
-event_time: 8:00 - 9:30
-event_venue: parobrod
-event_meetup: 227567895
+xevent: 2016-02-03
+xevent_time: 8:00 - 9:30
+xevent_venue: parobrod
+xevent_meetup: 227567895
 view_map: true
 partner:
   - kiflice
@@ -20,7 +20,7 @@ jutarnje kafe. Tri predavanja od 5 minuta, 2 minuta za pitanja; i networking
 dopunjen kiflicama je sjajan način da se započne dan.
 {: .focus}
 
-<%= render '/_eventbox.html' %>
+<!--%= render '/_eventbox.html' %-->
 
 Ideja je da se u neformalnoj atmosferi na brz način predstave ideje i projekti sa ciljem
 prikupljanja komentara, nalaženja istomišljenjika, razmene znanja iz
@@ -41,9 +41,9 @@ delatnosti dobrodošli ste da predstavite svoje ideje.
 
 + `8:00`	Kafa + kiflice dobrodošlice, opušteni razgovor sa učesnicima
 + `8:15`	Predstavljanja
-	+ [**Strawbery energy**](http://senergy.rs/) - [Miloš Milisavljević](https://uk.linkedin.com/in/milisavljevic)
-	+ [**Solagro press system**](http://solagroteam.com/sr/%D1%80%D0%B5%D1%86%D0%B8%D0%BA%D0%BB%D0%B0%D0%B6%D0%B0/) - Nemanja Janić
-	+ [**Solaris Energy - Solarna Elektrana**](http://www.solarisenergy.co.rs/) - [Miloš Kostić](https://www.linkedin.com/in/milo%C5%A1-kosti%C4%87-b834944)
+
+TBA
+
 + `9:00` Slobodna diskusija uz kofeinsku dopunu ako zatreba ;)
 + `9:30` Krećemo u nove radne pobede!
 

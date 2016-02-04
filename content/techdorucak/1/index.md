@@ -14,13 +14,13 @@ partner:
   - nescafe
 ---
 
-## Tehnološki doručak #1
+## Tehnološki doručak 1
 
 <%= render '/_eventbox.html' %>
 
 ## Agenda
 
-+ `8:00`	Kafa + kroasan dobrodošlice, opušteni razgovor sa učesnicima
++ `8:00`	Kafa + kiflice dobrodošlice, opušteni razgovor sa učesnicima
 + `8:15`	Predstavljanja
 	+ [**JustGage**](http://justgage.com/) - [Bojan Đuričić](https://rs.linkedin.com/in/toorshia)
 	+ [**Aestetic Engine**](http://brutalism.rs/projects/aesthetic-engine-1/) - [Vladimir Mitrović](https://rs.linkedin.com/in/pttrn)
