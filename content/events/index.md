@@ -17,6 +17,9 @@ našu grupu!
 
 </div>
 
+Učestvujte i <a href="/prijava.html">prijavite</a> vaše prezentacije!
+
+
 ## Tehnološki doručak
 {: .stuff}
 
