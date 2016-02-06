@@ -46,25 +46,17 @@ if (newEvents.size != 0) %>
 
 				<!-- OGLASI -->
 
-<%
-oglasi = hs_items_of_kind('oglas')
-if (oglasi != nil) %>
 
-<section id="two" class="wrapper style2 special" style="padding-top:0">
-<div class="or-spacer"><div class="mask"></div><span><i class="fa fa-newspaper-o"></i></span></div>
+<section id="two" class="wrapper style2 special ppl" style="padding-top:0;">
+<div class="or-spacer"><div class="mask"></div><span><i class="fa fa-bolt"></i></span></div>
 						<div class="inner">
-
-<h3>Traži se</h3>
 <ul class="actions">
-<% oglasi.each{ |itid| it = @items[itid] %>
-<li><%= link_to(h(it[:title]), it, :class => 'button small') %></li>
-<% } %>
+<li><a href="/ukljuci-se.html" class="button special">UKLJUČI SE</a></li>
 </ul>
 
 						</div>
 					</section>
 
-<% end %>
 
 				<!-- MAIN -->
 
