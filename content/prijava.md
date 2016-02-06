@@ -1,6 +1,6 @@
 ---
 title: HeapSpace prijave
-subtitle: Uključite se u zajednicu
+subtitle: Prijavite se za događaje
 img: /images/hsbck_mail.jpg
 ---
 
@@ -13,9 +13,15 @@ Podesite vaše elektronsko sanduče kako naše poruke ne bi završile kao nežel
 
 ## Tehnološki doručak
 
+[Tehnološki doručak](/techdorucak) je brza razmene ideja i znanja među učesnicima,
+u prijatnoj atmosferi prve jutarnje kafe.
+
 <%= render '/prijave/_prijava_tehdorucak.html' %>
 
 ## GeekNight
+
+[GeekNight](/geeknight) je nešto detaljniji koncept predstavljanja rešenja,
+projekata, ideja i svega što na neki način pospešuje stvarnost.
 
 <%= render '/prijave/_prijava_geeknight.html' %>
 
