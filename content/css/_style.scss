@@ -387,7 +387,7 @@ img.right {
 .ppl {
 	width: 100%;
 	height: 167;
-	background: url(/images/ppl.png);
+	background: url(/images/ppl.png) repeat-x;
 	-webkit-animation: backgroundScroll 30s linear infinite;
 	animation: backgroundScroll 30s linear infinite;
 }
