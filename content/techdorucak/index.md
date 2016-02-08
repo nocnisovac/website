@@ -4,14 +4,13 @@ subtitle: Čavrljanje o tehnologijama uz kafu i kroasane
 title_img: title.png
 img: /images/plavo.jpg
 kind: tekfast
-xevent: 2016-03-02
-xevent_time: 8:00 - 9:30
-xevent_venue: parobrod
-xevent_meetup: 228607844
+event: 2016-03-02
+event_time: 8:00 - 9:30
+event_venue: parobrod
+event_meetup: 228607844
 view_map: true
 partner:
   - uk parobrod
-  - kiflice
   - supernatural bar
   - nescafe
 ---
