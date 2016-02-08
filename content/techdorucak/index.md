@@ -1,5 +1,5 @@
 ---
-title: Tehnološki Doručak 3
+title: Tehnološki Doručak #3
 subtitle: Čavrljanje o tehnologijama uz kafu i kroasane
 title_img: title.png
 img: /images/plavo.jpg
@@ -7,10 +7,12 @@ kind: tekfast
 xevent: 2016-03-02
 xevent_time: 8:00 - 9:30
 xevent_venue: parobrod
-xevent_meetup: 227567895
+xevent_meetup: 228607844
 view_map: true
 partner:
+  - uk parobrod
   - kiflice
+  - supernatural bar
   - nescafe
 ---
 
