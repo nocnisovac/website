@@ -1,10 +1,10 @@
 ---
-title: Tehnološki Doručak
+title: Tehnološki Doručak 3
 subtitle: Čavrljanje o tehnologijama uz kafu i kroasane
 title_img: title.png
 img: /images/plavo.jpg
 kind: tekfast
-xevent: 2016-02-03
+xevent: 2016-03-02
 xevent_time: 8:00 - 9:30
 xevent_venue: parobrod
 xevent_meetup: 227567895
@@ -40,12 +40,17 @@ delatnosti dobrodošli ste da predstavite svoje ideje.
 ## Agenda
 
 + `8:00`	Kafa + kiflice dobrodošlice, opušteni razgovor sa učesnicima
-+ `8:15`	Predstavljanja
++ `8:15`	Pozdrav suncu ;)
++ `8:20`  Predstavljanja
+
++ COMING SOON! 
+
+Shout outs - hoćete nešto da kažete, podelite, tražite, nudite.. 15 sekundi je vaše - iskoristite ih!
 
 TBA
 
-+ `9:00` Slobodna diskusija uz kofeinsku dopunu ako zatreba ;)
-+ `9:30` Krećemo u nove radne pobede!
++ `9:00 - 9:30` Slobodna diskusija uz kofeinsku dopunu ako zatreba ;)
+
 
 Potvrdite dolazak: <a href="http://www.meetup.com/HeapSpace/events/<%=@item[:event_meetup]%>/" data-event="<%=@item[:event_meetup]%>" class="mu-rsvp-btn invisible">RSVP</a>
 
