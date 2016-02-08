@@ -1,5 +1,5 @@
 ---
-title: GeekNight
+title: GeekNight #2
 title_img: geek-night.png
 subtitle: S tehnologijama kroz noć
 img: /images/hsbck_geeknight.jpg
