@@ -3,11 +3,11 @@ title: GeekNight
 title_img: geek-night.png
 subtitle: S tehnologijama kroz noć
 img: /images/hsbck_geeknight.jpg
-xevent: 2016-02-25
-xevent_time: 18:30 - 20:30
-xevent_venue: skc
-xevent_meetup: 228084197
-xview_map: true
+event: 2016-02-25
+event_time: 18:30 - 21:30
+event_venue: skc
+event_meetup: 228451616
+view_map: true
 partner:
   - skc
   - zaječarsko
